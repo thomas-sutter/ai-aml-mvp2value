@@ -4,7 +4,7 @@ From MVP to business value: explainable AML AI ready for real-world deployment.
 
 
 
-## News / Why this matters
+## News
 IBM Synthetic Data Sets — Winner “Best AI Solution – Data Insights & Knowledge Management”
 at the Banking Tech Awards USA 2025.  
 Source: [Official winners list](https://informaconnect.com/banking-tech-awards-usa/2025-winners/) ·
