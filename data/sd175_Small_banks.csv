@@ -1,0 +1,1459 @@
+Bank_ID,Bank_Name,Num_Transactions,Num_Total_Locations,Num_non_Focus_Country_Locns,Sample_City
+132878850,Citi,66261,2000,100,Paris - France
+132877E90,JPMorgan Chase,130718,2000,100,Richmond - Indiana - United States
+1328781D0,Bank of America Corp.,89102,2000,80,Live Oak - California - United States
+13287AF50,Ally Financial,40191,0,0,Online Only
+132879890,BB&T Corp.,37534,1500,0,Washington Court House - Ohio - United States
+132879550,Bank of New York Mellon,33278,500,0,Houston - Texas - United States
+132878B90,Capital One Financial,57831,2000,0,Altoona - Pennsylvania - United States
+13287A8D0,Citizens Bank,38737,800,0,Henderson - Texas - United States
+13287B290,Fifth Third Bancorp,44057,1000,0,Jamaica - New York - United States
+132879F10,Key Bank,50580,800,0,Charleston - West Virginia - United States
+13287A590,M&T Bank Corp.,34434,500,0,Philadelphia - Pennsylvania - United States
+132879210,PNC Financial Services,42069,1500,0,East Freedom - Pennsylvania - United States
+13287A250,Regions Financial,28552,500,0,Lincolnton - Georgia - United States
+13287AC10,State Street Bank,23681,8,0,Madison - Georgia - United States
+132879BD0,SunTrust Banks,46883,1000,0,Fort Branch - Indiana - United States
+132878ED0,U.S. Bancorp,41816,1000,0,Bethlehem - Pennsylvania - United States
+132878510,Wells Fargo,74366,2000,0,Fort Myers - Florida - United States
+13287B5D0,Navient,0,300,0,Peoria - Arizona - United States
+13287BF90,Amex,0,0,0,Online Only
+13287C2D0,Discover,0,0,0,Online Only
+13287BC50,Mastercard,0,0,0,Online Only
+13287B910,Visa,0,0,0,Online Only
+99A09D190,Ball Thrift,24,1,1,Algiers - Algeria
+99B748400,Camila's Federal Credit Union,0,1,1,Sydney - Australia
+99B746E50,Macron Federal Credit Union,0,1,1,Sydney - Australia
+99CDF2910,United Thrift,0,1,1,Bridgetown - Barbados
+9A1D49B10,Allison Thrift,2,1,1,Calgary - Canada
+9A3030FC0,Jordan's Savings Bank,0,1,1,Beijing - China
+9A4AA0DE0,Lynch Federal Credit Union,159,1,1,Yamoussoukro - Cote d'Ivoire
+9A9260C40,Rudy's Federal Credit Union,0,1,1,Paris - France
+9AA1771E0,Hester Bank,20,1,1,Berlin - Germany
+9AA175390,United Bank,163,1,1,Berlin - Germany
+9ADA1F670,Duffy Thrift,0,1,1,Mumbai - India
+9ADA1F220,United Bank,4,1,1,Mumbai - India
+9B168CC30,Duffy Federal Credit Union,97,1,1,Seoul - South Korea
+9B74F3730,Rhys's Bank,0,1,1,Cabo San Lucas - Mexico
+9C1EEAC60,Evalyn's Savings Bank,10,1,1,Riyadh - Saudi Arabia
+9C31D3370,Arthur's Thrift,0,1,1,Singapore - Singapore
+9C31D2AC0,Raphael's Bank,0,1,1,Singapore - Singapore
+9C31D1970,Zaiden's Savings Bank,0,1,1,Singapore - Singapore
+9C5015F20,Berry Bank,80,1,1,Colombo - Sri Lanka
+9C62F9FD0,Hodge Savings Bank,1,1,1,Stockholm - Sweden
+9CAE8A240,Barber Thrift,185,1,1,Edinburgh - United Kingdom
+698CF91D0,Journee's Bank,0,1,0,Carlisle - Massachusetts - United States
+697531C40,United Federal Credit Union,31,1,0,Lowell - Massachusetts - United States
+6987CD140,Julissa's Arlington Savings Bank,229,1,0,Arlington - Massachusetts - United States
+698DDAA60,Diego's Exeter Savings Bank,144,1,0,Exeter - New Hampshire - United States
+697AF86F0,Rayden's Savings Bank,366,1,0,Exeter - New Hampshire - United States
+6980D55A0,Rowland Savings Bank,156,1,0,Plaistow - New Hampshire - United States
+698761FC0,Valentina's Savings Bank,379,1,0,Seabrook - New Hampshire - United States
+69884BD10,Josephine's Saint Johnsbury Savings Bank,1576,1,0,Saint Johnsbury - Vermont - United States
+6986E81E0,Reyansh's Federal Credit Union,725,1,0,Bristol - Connecticut - United States
+698047A70,Ayala Federal Credit Union,87,1,0,Farmington - Connecticut - United States
+6971C2FE0,Gardner Bank,16,1,0,Manchester - Connecticut - United States
+6987F35B0,United Bank,104,1,0,Bolton - Connecticut - United States
+6976F80E0,Remington's Federal Credit Union,173,1,0,Newington - Connecticut - United States
+697BBA3D0,Willow's North Windham Federal Credit Union,267,1,0,North Windham - Connecticut - United States
+69898A490,Forrest's Thompson Bank,62,1,0,Thompson - Connecticut - United States
+6980EF230,Abe Federal Credit Union,210,1,0,Woodstock - Connecticut - United States
+698270440,Buchanan Savings Bank,185,1,0,Plainfield - Connecticut - United States
+6981B7F20,Bryan Bank,11,1,0,Milford - Connecticut - United States
+698CBDEC0,Cantu Federal Credit Union,66,1,0,Westbrook - Connecticut - United States
+6982F25B0,Luna's Westbrook Bank,158,1,0,Westbrook - Connecticut - United States
+698A187F0,Holloway West Haven Federal Credit Union,28,1,0,West Haven - Connecticut - United States
+69856F5D0,Miles's Bank,188,1,0,West Haven - Connecticut - United States
+69730C490,Charles Savings Bank,107,1,0,Waterbury - Connecticut - United States
+6976932D0,Beatrice's Federal Credit Union,217,1,0,Naugatuck - Connecticut - United States
+699029C40,George's Naugatuck Bank,84,1,0,Naugatuck - Connecticut - United States
+697235F30,Kade's Federal Credit Union,98,1,0,Naugatuck - Connecticut - United States
+6983A01C0,Harper Bank,365,1,0,Caldwell - New Jersey - United States
+69877A6D0,Callie's Bank,186,1,0,Cedar Grove - New Jersey - United States
+697192FE0,Johanna's Lake Hiawatha Federal Credit Union,252,1,0,Lake Hiawatha - New Jersey - United States
+698C77C00,August's Orange Bank,517,1,0,Orange - New Jersey - United States
+69793E760,Hunter Savings Bank,33,1,0,Orange - New Jersey - United States
+6992AAFD0,Morton Savings Bank,0,1,0,West Orange - New Jersey - United States
+697F46E30,Scarlett's Parsippany Bank,1,1,0,Parsippany - New Jersey - United States
+697BFFBE0,Jad's Savings Bank,274,1,0,Mountainside - New Jersey - United States
+6989648A0,Miller Bank,1313,1,0,Elizabethport - New Jersey - United States
+6981C5400,United Federal Credit Union,279,1,0,Ridgewood - New Jersey - United States
+6975EAA00,Blair Federal Credit Union,277,1,0,Montvale - New Jersey - United States
+698AE66B0,James Savings Bank,208,1,0,Westwood - New Jersey - United States
+699043500,Nora's Bank,82,1,0,West Deptford - New Jersey - United States
+698C35C10,Levy Vineland Bank,227,1,0,Vineland - New Jersey - United States
+6980FA890,Woodward Bank,571,1,0,Larchmont - New York - United States
+6982C5050,Kline Bank,0,1,0,Port Chester - New York - United States
+696E15CC0,Branch Federal Credit Union,47,1,0,Scarsdale - New York - United States
+6976EBB60,McClain Savings Bank,174,1,0,Scarsdale - New York - United States
+698EF6C10,Francis's Savings Bank,613,1,0,Valley Cottage - New York - United States
+698ED7490,Browning Federal Credit Union,229,1,0,West Nyack - New York - United States
+6977AF3D0,Ball Brooklyn Savings Bank,21,1,0,Brooklyn - New York - United States
+699271540,Raymond's Bank,0,1,0,Brooklyn - New York - United States
+6990B9190,Phoenix's Bank,0,1,0,Brooklyn - New York - United States
+696DECD20,Potts Bank,0,1,0,Brooklyn - New York - United States
+69705A300,Royal's Brooklyn Federal Credit Union,223,1,0,Brooklyn - New York - United States
+697E3F230,Walters Savings Bank,123,1,0,Brooklyn - New York - United States
+697DE4830,Hunter's Federal Credit Union,0,1,0,Flushing - New York - United States
+6979A75A0,Cummings Federal Credit Union,0,1,0,Whitestone - New York - United States
+698F49950,Ellis's Federal Credit Union,0,1,0,Flushing - New York - United States
+696F669A0,Lang Federal Credit Union,414,1,0,Bayside - New York - United States
+6971BC7C0,Singleton Bank,252,1,0,Bayside - New York - United States
+698F5E800,Leroux Bank,33,1,0,Little Neck - New York - United States
+6988BDD80,Henry Bank,96,1,0,Little Neck - New York - United States
+698A18C60,Aaden's Bank,0,1,0,Flushing - New York - United States
+697E05540,Estrella's Savings Bank,325,1,0,Ridgewood - New York - United States
+697CA5750,Beasley Pulaski Bank,330,1,0,Pulaski - New York - United States
+697FD9250,McKee Federal Credit Union,25,1,0,New Berlin - New York - United States
+6987CE710,Glenn Federal Credit Union,486,1,0,North Tonawanda - New York - United States
+698BDD190,Quincy's Federal Credit Union,48,1,0,Buffalo - New York - United States
+696E58490,Morgan's Bank,971,1,0,Buffalo - New York - United States
+697318790,Dennis Bank,140,1,0,Farmington - New York - United States
+697B0DE20,Leal Bank,198,1,0,Hilton - New York - United States
+698FED860,Goodman Federal Credit Union,341,1,0,Honeoye Falls - New York - United States
+6981934F0,Henrik's Savings Bank,179,1,0,Honeoye Falls - New York - United States
+698F3DEA0,David's Federal Credit Union,128,1,0,Pittsford - New York - United States
+696F01A00,Fleming Savings Bank,26,1,0,Pittsford - New York - United States
+698629400,McMillan Bank,145,1,0,Shortsville - New York - United States
+6977310B0,Bullock Federal Credit Union,128,1,0,North Versailles - Pennsylvania - United States
+697E5A830,Koa's Savings Bank,166,1,0,Pittsburgh - Pennsylvania - United States
+697B18BE0,Bonnie's Bank,6,1,0,Pittsburgh - Pennsylvania - United States
+698E62D80,Adrianna's Savings Bank,23,1,0,Greensburg - Pennsylvania - United States
+698D054D0,Rylie's Bank,410,1,0,Greensburg - Pennsylvania - United States
+6984CBF80,Leon's Savings Bank,763,1,0,Girard - Pennsylvania - United States
+697636F70,Ramsey Bank,7,1,0,Enola - Pennsylvania - United States
+697ED5D00,Salas Savings Bank,244,1,0,Mechanicsburg - Pennsylvania - United States
+697781B00,Hayden's Federal Credit Union,382,1,0,Hanover - Pennsylvania - United States
+6972F6960,Kendra's Hanover Federal Credit Union,164,1,0,Hanover - Pennsylvania - United States
+6989FB700,Benjamin Federal Credit Union,0,1,0,New Oxford - Pennsylvania - United States
+698C99720,Jackson Bank,43,1,0,Tannersville - Pennsylvania - United States
+6975A63E0,Sue's Falls Bank,661,1,0,Falls - Pennsylvania - United States
+6982E0290,Alexander's Federal Credit Union,572,1,0,Lake Harmony - Pennsylvania - United States
+696F256D0,Zayne's Newtown Savings Bank,42,1,0,Newtown - Pennsylvania - United States
+696F33020,Dixon Drexel Hill Bank,84,1,0,Drexel Hill - Pennsylvania - United States
+696FCA0B0,Elian's Savings Bank,585,1,0,Elkins Park - Pennsylvania - United States
+6976614D0,Fox Bank,0,1,0,Marcus Hook - Pennsylvania - United States
+698334040,Keira's Marcus Hook Federal Credit Union,0,1,0,Marcus Hook - Pennsylvania - United States
+698562560,McDonald Federal Credit Union,649,1,0,Marcus Hook - Pennsylvania - United States
+6988184A0,Santana Paoli Bank,59,1,0,Paoli - Pennsylvania - United States
+69779EF30,Bullock Hatfield Bank,135,1,0,Hatfield - Pennsylvania - United States
+698DDA1A0,Miracle's Federal Credit Union,40,1,0,Lansdale - Pennsylvania - United States
+697734D90,Odonnell Pottstown Savings Bank,140,1,0,Pottstown - Pennsylvania - United States
+697327620,Bryant Federal Credit Union,264,1,0,Mohnton - Pennsylvania - United States
+6974007D0,Greta's Bank,156,1,0,Mohnton - Pennsylvania - United States
+696F96B80,Lyons Bank,188,1,0,Mohnton - Pennsylvania - United States
+69757F290,Skye's Savings Bank,0,1,0,Wernersville - Pennsylvania - United States
+69712C150,Wilkerson Federal Credit Union,921,1,0,Marydel - Delaware - United States
+697D72730,Briggs Federal Credit Union,999,1,0,Selbyville - Delaware - United States
+6973F7840,Larson Bank,155,1,0,Selbyville - Delaware - United States
+698E042F0,Foley Smyrna Savings Bank,252,1,0,Smyrna - Delaware - United States
+69770BDA0,Kaya's Smyrna Savings Bank,146,1,0,Smyrna - Delaware - United States
+6981B1730,Marie's Savings Bank,207,1,0,Washington - District of Columbia - United States
+697CE7260,Eloise's Bank,236,1,0,Bethesda - Maryland - United States
+6975EBB60,Wesley's Germantown Federal Credit Union,290,1,0,Germantown - Maryland - United States
+6991EE1C0,Dariel's Bank,4,1,0,Phoenix - Maryland - United States
+69886ED10,Regina's Savings Bank,219,1,0,Sparks Glencoe - Maryland - United States
+699055880,Raymond Savings Bank,174,1,0,Federalsburg - Maryland - United States
+698C94D10,Henry's Hurlock Savings Bank,85,1,0,Hurlock - Maryland - United States
+6972C1A30,Zimmerman Savings Bank,860,1,0,Trappe - Maryland - United States
+69838FD90,Jamari's Federal Credit Union,639,1,0,Frederick - Maryland - United States
+698B025A0,Lang Bank,977,1,0,Ijamsville - Maryland - United States
+697FA6B40,Amaya's Federal Credit Union,281,1,0,Woodbine - Maryland - United States
+697AEA050,Quinn's Federal Credit Union,670,1,0,Woodbine - Maryland - United States
+696E25900,Hardin Savings Bank,72,1,0,Fairfax - Virginia - United States
+697C01180,Poppy's Bank,588,1,0,Arlington - Virginia - United States
+698F28720,United Federal Credit Union,1,1,0,Arlington - Virginia - United States
+696EF8230,Itzayana's Federal Credit Union,100,1,0,Glen Allen - Virginia - United States
+69884CEC0,Kaur Savings Bank,45,1,0,Maidens - Virginia - United States
+6987AEF80,Hall Bank,0,1,0,Williamsburg - Virginia - United States
+697467AA0,Lucas's Savings Bank,93,1,0,Williamsburg - Virginia - United States
+696E42450,Hartman Savings Bank,280,1,0,Rocky Mount - Virginia - United States
+697E1C670,Combs Lynchburg Savings Bank,150,1,0,Lynchburg - Virginia - United States
+6983F4920,Kennedy Federal Credit Union,1,1,0,Lynchburg - Virginia - United States
+698CDE810,Richard's Bank,0,1,0,Lynchburg - Virginia - United States
+697A1CF60,Strickland Federal Credit Union,0,1,0,Lynchburg - Virginia - United States
+69718FB90,Jaxton's Federal Credit Union,0,1,0,Lynchburg - Virginia - United States
+69744C040,Juliette's Savings Bank,73,1,0,Lynchburg - Virginia - United States
+698782D50,Poppy's Savings Bank,6,1,0,Lynchburg - Virginia - United States
+698736D60,Dalton Savings Bank,891,1,0,Forest - Virginia - United States
+697535480,Faraday Savings Bank,35,1,0,South Boston - Virginia - United States
+6975D2BF0,Berg Foster Federal Credit Union,1053,1,0,Foster - West Virginia - United States
+697768B30,Alaina's Federal Credit Union,115,1,0,Martinsburg - West Virginia - United States
+6978F0E30,Ayaan's Federal Credit Union,827,1,0,Wheeling - West Virginia - United States
+6978A4B00,Izabella's Bank,346,1,0,Franklinville - North Carolina - United States
+698679940,Higgins Savings Bank,358,1,0,Eden - North Carolina - United States
+697AAC190,Noah's Federal Credit Union,453,1,0,Raleigh - North Carolina - United States
+696DE8370,Nehemiah's Savings Bank,81,1,0,Lumberton - North Carolina - United States
+697658E30,McCullough Federal Credit Union,1493,1,0,Raeford - North Carolina - United States
+698F3F8B0,Castaneda Bank,1450,1,0,Havelock - North Carolina - United States
+698A3DF60,Mathis Bank,245,1,0,West Columbia - South Carolina - United States
+6984F5BE0,Perry Bank,642,1,0,Darlington - South Carolina - United States
+697F290A0,Nathaniel's Bank,771,1,0,Greenville - South Carolina - United States
+69760C570,Morton Greenville Bank,215,1,0,Greenville - South Carolina - United States
+697C770C0,Benitez Savings Bank,253,1,0,Simpsonville - South Carolina - United States
+697CF0E70,Curtis's Simpsonville Federal Credit Union,32,1,0,Simpsonville - South Carolina - United States
+697526190,United Bank,518,1,0,Simpsonville - South Carolina - United States
+3DD35C060,Lara Savings Bank,850,1,0,Blacksburg - South Carolina - United States
+699233AC0,Bartlett Federal Credit Union,388,1,0,Early Branch - South Carolina - United States
+6992B8470,O'Neill Snellville Savings Bank,408,1,0,Snellville - Georgia - United States
+698A9CDD0,Brock Federal Credit Union,0,1,0,Marietta - Georgia - United States
+697355470,Glenn Marietta Bank,0,1,0,Marietta - Georgia - United States
+6976EDC20,Zaria's Bank,0,1,0,Marietta - Georgia - United States
+697E1D380,Raiden's Marietta Federal Credit Union,216,1,0,Marietta - Georgia - United States
+698CF7C00,Paul Duluth Bank,229,1,0,Duluth - Georgia - United States
+699377FF0,Sean's Savings Bank,17,1,0,Carrollton - Georgia - United States
+6988D2420,Aminah's Carrollton Savings Bank,549,1,0,Carrollton - Georgia - United States
+3DD54BAB0,Jordan Carrollton Savings Bank,1,1,0,Carrollton - Georgia - United States
+698C104B0,Rodriguez Bank,0,1,0,Carrollton - Georgia - United States
+6984E38D0,Schroeder Federal Credit Union,392,1,0,Stockbridge - Georgia - United States
+697A9D2F0,Galindo Tyrone Federal Credit Union,350,1,0,Tyrone - Georgia - United States
+69792FCA0,Kendall's Bank,96,1,0,Atlanta - Georgia - United States
+697EEF550,Raymond Savings Bank,77,1,0,Atlanta - Georgia - United States
+697191170,Duke Savings Bank,17,1,0,Atlanta - Georgia - United States
+697E48580,Shepherd Savings Bank,298,1,0,Buford - Georgia - United States
+6978F6510,Harris Federal Credit Union,116,1,0,Buford - Georgia - United States
+698D5FEF0,Douglas Crawford Savings Bank,861,1,0,Crawford - Georgia - United States
+6991672F0,Griffin Ringgold Bank,182,1,0,Ringgold - Georgia - United States
+6974F05E0,Farley Bank,262,1,0,Rossville - Georgia - United States
+69710D620,Enoch's Federal Credit Union,549,1,0,Summerville - Georgia - United States
+6976373C0,Sterling's Savings Bank,309,1,0,Summerville - Georgia - United States
+69869D6E0,Rowan's Tunnel Hill Federal Credit Union,907,1,0,Tunnel Hill - Georgia - United States
+6973CD370,James Federal Credit Union,82,1,0,Grovetown - Georgia - United States
+698CB9900,Kehlani's Federal Credit Union,95,1,0,Augusta - Georgia - United States
+698E8C5A0,Fabian's Savings Bank,169,1,0,Fort Valley - Georgia - United States
+69775DD30,Legacy's Perry Federal Credit Union,149,1,0,Perry - Georgia - United States
+69823D340,Wagner Federal Credit Union,0,1,0,Perry - Georgia - United States
+6989D6000,Alayah's Bank,49,1,0,Valdosta - Georgia - United States
+69791E310,Pierce Savings Bank,20,1,0,Daytona Beach - Florida - United States
+6983F4D80,United Bank,154,1,0,Palm Coast - Florida - United States
+697F51360,Vanessa's Bank,163,1,0,Jacksonville - Florida - United States
+6975EEB20,United Savings Bank,327,1,0,Fort Walton Beach - Florida - United States
+697DD17C0,Jaelynn's Savings Bank,0,1,0,Fort Walton Beach - Florida - United States
+6984CCC80,McLean Savings Bank,50,1,0,Milton - Florida - United States
+6984986D0,Quinn Bank,497,1,0,Orlando - Florida - United States
+698AB0AC0,Jabari's Bank,229,1,0,Summerland Key - Florida - United States
+6982B9DE0,Kalel's Savings Bank,121,1,0,Miami - Florida - United States
+698A49EB0,Burke Savings Bank,0,1,0,Miami - Florida - United States
+696F482F0,Mathew's Savings Bank,1266,1,0,Miami - Florida - United States
+6974598B0,Colin's Savings Bank,6,1,0,Miami - Florida - United States
+6988F91A0,Peters Fort Lauderdale Savings Bank,362,1,0,Fort Lauderdale - Florida - United States
+697623B50,Peck Fort Lauderdale Savings Bank,31,1,0,Fort Lauderdale - Florida - United States
+6988CCD20,Arya's Savings Bank,297,1,0,Deerfield Beach - Florida - United States
+697DA04F0,Carmen's Federal Credit Union,800,1,0,Boynton Beach - Florida - United States
+697A73E80,Cross Boynton Beach Bank,300,1,0,Boynton Beach - Florida - United States
+6975042C0,Farley Savings Bank,167,1,0,Delray Beach - Florida - United States
+6989EB270,Arroyo Savings Bank,0,1,0,Riverview - Florida - United States
+69779D0E0,Owen Savings Bank,19,1,0,Seminole - Florida - United States
+3C5C4EB50,United Savings Bank,711,1,0,Indian Rocks Beach - Florida - United States
+697AA2110,Parker's Savings Bank,187,1,0,Lakeland - Florida - United States
+696F4D580,United Federal Credit Union,3,1,0,Fort Myers - Florida - United States
+697869FE0,Darren's Federal Credit Union,204,1,0,Fort Myers - Florida - United States
+698FE8E90,Harvey Savings Bank,449,1,0,Fort Myers - Florida - United States
+6973E7CD0,Leach Bank,6,1,0,Fort Myers - Florida - United States
+69755FF70,McLaughlin Federal Credit Union,13,1,0,Fort Myers - Florida - United States
+69841EA50,Xzavier's Savings Bank,123,1,0,Lehigh Acres - Florida - United States
+6991D4950,Hogan Longboat Key Savings Bank,96,1,0,Longboat Key - Florida - United States
+6975FA610,Reese's Savings Bank,239,1,0,Sarasota - Florida - United States
+697055500,Glover Sarasota Federal Credit Union,1,1,0,Sarasota - Florida - United States
+697F090E0,Ignacio's Federal Credit Union,301,1,0,Myakka City - Florida - United States
+6973164D0,Hartman Bank,0,1,0,North Port - Florida - United States
+6977608D0,Otis's Brooksville Federal Credit Union,173,1,0,Brooksville - Florida - United States
+697652620,United Savings Bank,323,1,0,Kissimmee - Florida - United States
+6977DCDC0,Church Savings Bank,632,1,0,Port Saint Lucie - Florida - United States
+69853A280,Hale Jensen Beach Savings Bank,163,1,0,Jensen Beach - Florida - United States
+698E20F30,Reynolds Savings Bank,4,1,0,Stuart - Florida - United States
+698662D00,Mejia Savings Bank,254,1,0,Madison - Alabama - United States
+697709240,Abram's Federal Credit Union,91,1,0,Madison - Alabama - United States
+6986DF270,Whitney Bank,265,1,0,Mobile - Alabama - United States
+698A109E0,Antonio's Federal Credit Union,350,1,0,Eight Mile - Alabama - United States
+69704F590,Hill Bank,1097,1,0,Pine Hill - Alabama - United States
+6989E08F0,Raiden's Auburn Bank,510,1,0,Auburn - Alabama - United States
+697620FD0,Kyrie's Clarksville Federal Credit Union,801,1,0,Clarksville - Tennessee - United States
+698A4CA00,Schultz Federal Credit Union,49,1,0,Clarksville - Tennessee - United States
+697740860,United Federal Credit Union,349,1,0,Madison - Tennessee - United States
+698FFD3F0,Gabriel's Murfreesboro Bank,23,1,0,Murfreesboro - Tennessee - United States
+6987E12E0,Lawrence's Bank,24,1,0,Murfreesboro - Tennessee - United States
+697D83460,Rangel Murfreesboro Savings Bank,494,1,0,Murfreesboro - Tennessee - United States
+6974B7BA0,Hendrix Bank,25,1,0,Chattanooga - Tennessee - United States
+69786F6E0,Bailee's Federal Credit Union,0,1,0,Knoxville - Tennessee - United States
+698C72DE0,Kaison's Knoxville Savings Bank,18,1,0,Knoxville - Tennessee - United States
+6973831E0,Fox Savings Bank,25,1,0,Knoxville - Tennessee - United States
+69729F2F0,Taylor's Bank,9,1,0,Knoxville - Tennessee - United States
+6986D3340,United Savings Bank,493,1,0,Knoxville - Tennessee - United States
+697703750,Saoirse's Bank,1673,1,0,Dyersburg - Tennessee - United States
+69758E170,Barber Dyer Bank,449,1,0,Dyer - Tennessee - United States
+697B44750,Alma's Collinwood Federal Credit Union,285,1,0,Collinwood - Tennessee - United States
+697CD2400,Addisyn's Savings Bank,1436,1,0,Saint Joseph - Tennessee - United States
+697E0E910,Knox's Federal Credit Union,936,1,0,Waynesboro - Tennessee - United States
+6993961F0,Beck Bank,250,1,0,Cookeville - Tennessee - United States
+6986BB970,Kohen's Cookeville Federal Credit Union,125,1,0,Cookeville - Tennessee - United States
+698975610,Khalil's Baxter Federal Credit Union,555,1,0,Baxter - Tennessee - United States
+6985365A0,Kelly Savings Bank,75,1,0,Corinth - Mississippi - United States
+6990FBED0,Blaze's Federal Credit Union,573,1,0,Guntown - Mississippi - United States
+698ED1070,Cedric's Savings Bank,282,1,0,Jackson - Mississippi - United States
+698F617D0,Garner Ellisville Bank,206,1,0,Ellisville - Mississippi - United States
+6993EFB20,Cecilia's Federal Credit Union,364,1,0,Biloxi - Mississippi - United States
+6976796F0,Weiss Federal Credit Union,70,1,0,Biloxi - Mississippi - United States
+696F8EDA0,Xavier's Bank,105,1,0,Biloxi - Mississippi - United States
+696FFD180,Dawson Biloxi Bank,23,1,0,Biloxi - Mississippi - United States
+697298660,Roy Savings Bank,38,1,0,Biloxi - Mississippi - United States
+6975420F0,Willis Bank,358,1,0,Mount Washington - Kentucky - United States
+3DD361B80,Jamie's Taylorsville Federal Credit Union,74,1,0,Taylorsville - Kentucky - United States
+6992A2DB0,Clay Federal Credit Union,14,1,0,Shepherdsville - Kentucky - United States
+697E2B9C0,Gloria's Bank,56,1,0,Lexington - Kentucky - United States
+6989DBAD0,Deborah's Federal Credit Union,10,1,0,Lexington - Kentucky - United States
+6987DD5F0,Landyn's Federal Credit Union,1170,1,0,Covington - Kentucky - United States
+699376E70,Quinn's Covington Savings Bank,240,1,0,Covington - Kentucky - United States
+698FC0C60,Rex's Newport Bank,122,1,0,Newport - Kentucky - United States
+6982224C0,Proctor Federal Credit Union,963,1,0,Regina - Kentucky - United States
+698F13D00,Tucker Galloway Bank,1119,1,0,Galloway - Ohio - United States
+6984B2BB0,Bryant Federal Credit Union,150,1,0,Fremont - Ohio - United States
+697F30ED0,Marley's Bank,174,1,0,Wellsville - Ohio - United States
+69770FEF0,Taliyah's Federal Credit Union,310,1,0,Berea - Ohio - United States
+698A9A6E0,Glenn Savings Bank,64,1,0,Painesville - Ohio - United States
+6980E73F0,Karter's Savings Bank,322,1,0,Painesville - Ohio - United States
+697741E20,Kemal's Bank,0,1,0,Cleveland - Ohio - United States
+697055960,Bryan Savings Bank,45,1,0,Independence - Ohio - United States
+6975E2330,Norris Independence Savings Bank,235,1,0,Independence - Ohio - United States
+697027B30,Chan Bank,5,1,0,Strongsville - Ohio - United States
+6990386D0,Rollins Federal Credit Union,0,1,0,Brecksville - Ohio - United States
+6988EE840,Hoffman Bank,4,1,0,Broadview Heights - Ohio - United States
+696F948B0,Lin Bank,459,1,0,Streetsboro - Ohio - United States
+697AA9EE0,Caldwell Medina Bank,221,1,0,Medina - Ohio - United States
+699096190,Irene's Bank,9,1,0,Ravenna - Ohio - United States
+698956B20,Rush Bank,406,1,0,Columbiana - Ohio - United States
+6976AF250,Raymond New Waterford Savings Bank,182,1,0,New Waterford - Ohio - United States
+69715FE70,United Bank,19,1,0,Youngstown - Ohio - United States
+698A01AD0,Huffman Bank,695,1,0,Youngstown - Ohio - United States
+6982C2D90,Ray's Bank,127,1,0,Bowerston - Ohio - United States
+697CBDE60,Simmons Savings Bank,559,1,0,Bowerston - Ohio - United States
+6971DE920,Fernandez Savings Bank,288,1,0,Lebanon - Ohio - United States
+6984CD520,Ezequiel's Englewood Bank,84,1,0,Englewood - Ohio - United States
+697018CC0,Greta's Savings Bank,492,1,0,Fairborn - Ohio - United States
+6977CB7B0,Nyla's Dayton Bank,18,1,0,Dayton - Ohio - United States
+698E9AB50,Olson Bank,18,1,0,Dayton - Ohio - United States
+69766D840,Clements Dayton Savings Bank,0,1,0,Dayton - Ohio - United States
+6976DA980,Camilo's Savings Bank,6,1,0,Dayton - Ohio - United States
+697390670,Howard Federal Credit Union,28,1,0,Lima - Ohio - United States
+696E13E50,Braydon's Harrod Federal Credit Union,306,1,0,Harrod - Ohio - United States
+698922E90,United Bank,16,1,0,Cicero - Indiana - United States
+6980322C0,Estelle's Brownsburg Federal Credit Union,815,1,0,Brownsburg - Indiana - United States
+6976789F0,Jaelynn's Indianapolis Bank,317,1,0,Indianapolis - Indiana - United States
+698188750,Jeremias's Bank,2254,1,0,Indianapolis - Indiana - United States
+698465FC0,Thaddeus's Savings Bank,26,1,0,Indianapolis - Indiana - United States
+69936DF70,Walters Federal Credit Union,226,1,0,Indianapolis - Indiana - United States
+6982CAB60,Payne Savings Bank,201,1,0,Indianapolis - Indiana - United States
+69732D9E0,Fry Savings Bank,32,1,0,Indianapolis - Indiana - United States
+6981864C0,Thiago's Savings Bank,352,1,0,Columbus - Indiana - United States
+6975719D0,O'Connor Federal Credit Union,767,1,0,Linton - Indiana - United States
+698866270,Zavala Federal Credit Union,227,1,0,Linton - Indiana - United States
+698CA2680,Richardson Bank,163,1,0,West Terre Haute - Indiana - United States
+6990ACE10,Pugh Dearborn Bank,22,1,0,Dearborn - Michigan - United States
+6977615F0,Horne Federal Credit Union,28,1,0,Livonia - Michigan - United States
+698AE1CD0,Walter Savings Bank,380,1,0,Grosse Pointe - Michigan - United States
+69712A740,Cross Bank,114,1,0,Redford - Michigan - United States
+69916C9D0,Collins's Federal Credit Union,3,1,0,Waterford - Michigan - United States
+6980F5660,Sydney's Bank,94,1,0,Waterford - Michigan - United States
+6980DF610,Everly's Bank,22,1,0,Waterford - Michigan - United States
+697F9DBA0,Hayes Bank,204,1,0,Saginaw - Michigan - United States
+697063F80,Parks Bank,985,1,0,Saginaw - Michigan - United States
+698B90040,Samir's Savings Bank,516,1,0,Saginaw - Michigan - United States
+69901BEF0,Curtis Bank,40,1,0,Bath - Michigan - United States
+697EBD220,Hill Federal Credit Union,568,1,0,Dewitt - Michigan - United States
+697EF50C0,United Federal Credit Union,297,1,0,Lawton - Michigan - United States
+696E7F1B0,Weber Savings Bank,551,1,0,Paw Paw - Michigan - United States
+69862F820,Joseph Federal Credit Union,895,1,0,Pleasant Lake - Michigan - United States
+6982BC090,Conway Fruitport Bank,465,1,0,Fruitport - Michigan - United States
+69797C370,Amos's Savings Bank,202,1,0,Holland - Michigan - United States
+698666DF0,Cynthia's Bank,268,1,0,Muskegon - Michigan - United States
+6980D5140,Kashton's Savings Bank,0,1,0,Muskegon - Michigan - United States
+69808C050,Ali's Federal Credit Union,705,1,0,Grand Rapids - Michigan - United States
+698487E40,Montes Bank,41,1,0,Grand Rapids - Michigan - United States
+697F558B0,Ainsley's Savings Bank,0,1,0,Grand Rapids - Michigan - United States
+698972200,United Savings Bank,36,1,0,Grand Rapids - Michigan - United States
+697B92F90,Zelda's Federal Credit Union,9,1,0,Grand Rapids - Michigan - United States
+6988058A0,Owens Traverse City Savings Bank,35,1,0,Traverse City - Michigan - United States
+697345D00,Parrish Savings Bank,810,1,0,Traverse City - Michigan - United States
+698FB92D0,Jeffrey's Savings Bank,655,1,0,Dexter - Iowa - United States
+697ECA6A0,Greyson's Federal Credit Union,373,1,0,Iowa City - Iowa - United States
+697234DE0,Li Federal Credit Union,45,1,0,Iowa City - Iowa - United States
+698713440,Peck Federal Credit Union,345,1,0,Burlington - Iowa - United States
+696F50E10,Forrest's Federal Credit Union,738,1,0,Brookfield - Wisconsin - United States
+6979F6610,Azalea's Federal Credit Union,9,1,0,Milwaukee - Wisconsin - United States
+6993A3B20,Morton Savings Bank,528,1,0,Racine - Wisconsin - United States
+6981A1B70,United Bank,7,1,0,Racine - Wisconsin - United States
+698757670,Zoe's Racine Bank,130,1,0,Racine - Wisconsin - United States
+698861440,Alaina's Oconto Falls Savings Bank,173,1,0,Oconto Falls - Wisconsin - United States
+697BF2700,Fox Federal Credit Union,18,1,0,Oconto Falls - Wisconsin - United States
+696FBAD90,Franco Bank,467,1,0,Oconto Falls - Wisconsin - United States
+698B911A0,Kadence's Cashton Bank,69,1,0,Cashton - Wisconsin - United States
+697AB3B40,Emelia's Circle Pines Bank,154,1,0,Circle Pines - Minnesota - United States
+69880E400,Payne Federal Credit Union,335,1,0,Circle Pines - Minnesota - United States
+69840B130,Moore Pine City Bank,221,1,0,Pine City - Minnesota - United States
+69720BE40,Cyrus's Bank,290,1,0,Hopkins - Minnesota - United States
+698840700,Ainsley's Bank,853,1,0,Buffalo - Minnesota - United States
+69728CB30,Daxton's Buffalo Savings Bank,295,1,0,Buffalo - Minnesota - United States
+698810F80,Reilly Savings Bank,3,1,0,Eden Prairie - Minnesota - United States
+698A99110,Snow Minneapolis Bank,12,1,0,Minneapolis - Minnesota - United States
+699150AE0,Levy Savings Bank,85,1,0,Alexandria - Minnesota - United States
+6987FE790,Theodore's Bank,764,1,0,Detroit Lakes - Minnesota - United States
+6974C7F60,Buck Federal Credit Union,111,1,0,Grayslake - Illinois - United States
+697A63180,Charlie's Savings Bank,599,1,0,Hoffman Estates - Illinois - United States
+6973469F0,Powers Savings Bank,602,1,0,Berwyn - Illinois - United States
+697253400,Alia's Lemont Savings Bank,14,1,0,Lemont - Illinois - United States
+698850740,Emerson's Savings Bank,3,1,0,Lemont - Illinois - United States
+69937EC60,Reeves Lemont Savings Bank,63,1,0,Lemont - Illinois - United States
+3DD5456D0,Leona's Federal Credit Union,0,1,0,Chicago - Illinois - United States
+698D96C60,Adaline's Bank,318,1,0,Chicago - Illinois - United States
+698C542A0,Agustin's Savings Bank,9,1,0,Chicago - Illinois - United States
+696EE7D70,Rowan's Federal Credit Union,110,1,0,Elmwood Park - Illinois - United States
+697B6A380,Elle's Federal Credit Union,97,1,0,Cicero - Illinois - United States
+696E83310,Floyd Bank,104,1,0,Cicero - Illinois - United States
+6981BE2D0,Kassidy's Cicero Federal Credit Union,217,1,0,Cicero - Illinois - United States
+697B3F4B0,Palacios Savings Bank,56,1,0,Cicero - Illinois - United States
+697662A80,Reese's Federal Credit Union,291,1,0,Herscher - Illinois - United States
+697655A20,Melanie's Bank,805,1,0,Geneseo - Illinois - United States
+698E6AF90,Sterling's Federal Credit Union,67,1,0,Pekin - Illinois - United States
+697D74590,Jaime's Federal Credit Union,40,1,0,Trenton - Illinois - United States
+6982F4400,Adriana's Bank,349,1,0,Palestine - Illinois - United States
+69874AA40,Sheppard Bank,577,1,0,Robinson - Illinois - United States
+69863D570,Princess's Saint Louis Federal Credit Union,295,1,0,Saint Louis - Missouri - United States
+699089E10,Braden's Federal Credit Union,479,1,0,Bates City - Missouri - United States
+6986C78A0,Harrison Bank,113,1,0,Lebanon - Missouri - United States
+6977FCE20,Lia's Bank,401,1,0,Lebanon - Missouri - United States
+69818F3B0,Sage's Savings Bank,431,1,0,Rockaway Beach - Missouri - United States
+6976DC7D0,Compton Savings Bank,51,1,0,Olathe - Kansas - United States
+699003390,United Federal Credit Union,137,1,0,Olathe - Kansas - United States
+698DBD9F0,Albert's Kansas City Bank,0,1,0,Kansas City - Kansas - United States
+69876F900,Holland Savings Bank,780,1,0,Oakland - Nebraska - United States
+6972F9D80,Duncan Bank,88,1,0,La Vista - Nebraska - United States
+6976D5B40,Wilkerson Bank,813,1,0,La Vista - Nebraska - United States
+6973654E0,Person Bank,12,1,0,New Orleans - Louisiana - United States
+6970495E0,Trejo Federal Credit Union,1035,1,0,New Orleans - Louisiana - United States
+697E70870,Hancock Federal Credit Union,414,1,0,Bogalusa - Louisiana - United States
+6971AD4E0,Juliet's Bank,276,1,0,Bogalusa - Louisiana - United States
+697A7F0A0,Sanford Savings Bank,242,1,0,Bogalusa - Louisiana - United States
+698092890,Bush Savings Bank,22,1,0,Abbeville - Louisiana - United States
+6976D7560,Roach Crowley Savings Bank,605,1,0,Crowley - Louisiana - United States
+696F0BED0,Walsh Savings Bank,372,1,0,Jennings - Louisiana - United States
+698BEB760,Hugh's Gonzales Federal Credit Union,130,1,0,Gonzales - Louisiana - United States
+698D85620,Jaylah's Federal Credit Union,43,1,0,Baton Rouge - Louisiana - United States
+698E4F140,Oakley's Savings Bank,351,1,0,Nashville - Arkansas - United States
+697D40BA0,Sparks Savings Bank,643,1,0,Nashville - Arkansas - United States
+6993FF270,Emerson's Federal Credit Union,266,1,0,Harrison - Arkansas - United States
+696E35040,Shaffer Bank,765,1,0,Harrison - Arkansas - United States
+698848920,Wilkinson Bank,252,1,0,Harrison - Arkansas - United States
+69760DF50,Leonard's Western Grove Federal Credit Union,0,1,0,Western Grove - Arkansas - United States
+698AA9110,Silas's Savings Bank,644,1,0,Fairview - Oklahoma - United States
+6976D9820,Maleah's Tahlequah Savings Bank,240,1,0,Tahlequah - Oklahoma - United States
+697C61310,Fiona's Federal Credit Union,88,1,0,Welling - Oklahoma - United States
+6989DF340,Ian's Federal Credit Union,11,1,0,Garland - Texas - United States
+6971A0030,Anthony's Federal Credit Union,230,1,0,Garland - Texas - United States
+697E6D440,Warren's Savings Bank,2,1,0,Garland - Texas - United States
+698F15B50,Dennis's Savings Bank,2,1,0,Dallas - Texas - United States
+696F8A840,Lennon's Bank,51,1,0,Dallas - Texas - United States
+698FA2610,Alejandro's Savings Bank,1110,1,0,Dallas - Texas - United States
+698F29430,Jessica's Federal Credit Union,338,1,0,Athens - Texas - United States
+6970228D0,United Bank,356,1,0,Athens - Texas - United States
+3CFF30690,Brandt Quitman Federal Credit Union,562,1,0,Quitman - Texas - United States
+6971C49E0,Nicolas's Tenaha Savings Bank,507,1,0,Tenaha - Texas - United States
+698F8CED0,Emersyn's Federal Credit Union,742,1,0,Alvarado - Texas - United States
+698312EA0,McDonald Alvarado Bank,515,1,0,Alvarado - Texas - United States
+6985105D0,Kennedi's Federal Credit Union,646,1,0,Haslet - Texas - United States
+698A94B90,Karter's Bank,9,1,0,North Richland Hills - Texas - United States
+698AD3660,Phillips Savings Bank,7,1,0,North Richland Hills - Texas - United States
+69902C350,Greyson's Savings Bank,78,1,0,Houston - Texas - United States
+69843A0D0,United Federal Credit Union,0,1,0,Houston - Texas - United States
+697486E30,Mehmet's Federal Credit Union,2838,1,0,Houston - Texas - United States
+697871110,Adelaide's Savings Bank,24,1,0,Houston - Texas - United States
+6980DD7B0,May Spring Bank,206,1,0,Spring - Texas - United States
+69862EF70,Duke Federal Credit Union,299,1,0,Bellaire - Texas - United States
+6982C9160,Miranda Savings Bank,425,1,0,Bellaire - Texas - United States
+697B74450,Pugh Federal Credit Union,700,1,0,Galena Park - Texas - United States
+69736E430,United Bank,68,1,0,Galena Park - Texas - United States
+697ADD410,Berger Federal Credit Union,420,1,0,Bryan - Texas - United States
+6975BA090,Daleyza's Savings Bank,56,1,0,Bryan - Texas - United States
+696F6D630,Clayton Bank,3,1,0,San Antonio - Texas - United States
+697AC0300,Frankie's Savings Bank,8,1,0,San Antonio - Texas - United States
+698D9AD70,Allison Federal Credit Union,0,1,0,San Antonio - Texas - United States
+6989D9C80,Remy's Savings Bank,791,1,0,Ingleside - Texas - United States
+698A3D6B0,Rex's Savings Bank,1092,1,0,Robstown - Texas - United States
+698E22D80,Lang Bank,0,1,0,Corpus Christi - Texas - United States
+697222F10,Cain's Savings Bank,31,1,0,Brownsville - Texas - United States
+697F92540,Sylas's Savings Bank,544,1,0,Georgetown - Texas - United States
+699305820,Lane Bank,69,1,0,Georgetown - Texas - United States
+69789D580,Patricia's Savings Bank,168,1,0,Austin - Texas - United States
+6979531C0,Rosie's Austin Savings Bank,453,1,0,Austin - Texas - United States
+696E3D690,Avery's Bank,1060,1,0,Big Spring - Texas - United States
+6979EB440,Andrews Bank,6,1,0,El Paso - Texas - United States
+698637A50,Julissa's El Paso Bank,113,1,0,El Paso - Texas - United States
+698BE64F0,Harmon Bank,7,1,0,El Paso - Texas - United States
+6984078D0,Tate Bank,106,1,0,Aurora - Colorado - United States
+696DBFA20,Hoffman Aurora Bank,45,1,0,Aurora - Colorado - United States
+697C5F8E0,Melania's Federal Credit Union,474,1,0,Erie - Colorado - United States
+6970AB5C0,Hinton Federal Credit Union,111,1,0,Fort Collins - Colorado - United States
+699377730,Kara's Federal Credit Union,746,1,0,Fort Collins - Colorado - United States
+6976FF1F0,Schaefer Federal Credit Union,348,1,0,Fort Collins - Colorado - United States
+696DE4270,Sofia's Savings Bank,138,1,0,Greeley - Colorado - United States
+696F3E230,Joelle's Federal Credit Union,55,1,0,Greeley - Colorado - United States
+697777E70,Francesca's Bank,18,1,0,Greeley - Colorado - United States
+6978FA660,Ryan Pueblo Federal Credit Union,712,1,0,Pueblo - Colorado - United States
+697DE84F0,United Bank,816,1,0,Pocatello - Idaho - United States
+6974AD660,Gordon Federal Credit Union,163,1,0,Rexburg - Idaho - United States
+69900C2F0,Medrano Lehi Bank,108,1,0,Lehi - Utah - United States
+697E5F240,Patrick Sandy Federal Credit Union,115,1,0,Sandy - Utah - United States
+69914C540,Nolan Federal Credit Union,1643,1,0,Delta - Utah - United States
+697F6CDE0,Callen's Mesa Federal Credit Union,36,1,0,Mesa - Arizona - United States
+697816670,Colton's Federal Credit Union,244,1,0,Mesa - Arizona - United States
+6988937B0,Liv's Savings Bank,0,1,0,Mesa - Arizona - United States
+69732DE30,Lucille's Savings Bank,0,1,0,Mesa - Arizona - United States
+69816D060,Brody's Bank,14,1,0,Mesa - Arizona - United States
+69798D970,Carter Federal Credit Union,675,1,0,Peoria - Arizona - United States
+697907B20,Huxley's Savings Bank,37,1,0,Tucson - Arizona - United States
+698BA5BC0,Hansen Bank,237,1,0,Tucson - Arizona - United States
+6976C4DB0,O'Neal Federal Credit Union,13,1,0,Tucson - Arizona - United States
+698E854A0,Patricia's Savings Bank,203,1,0,Tucson - Arizona - United States
+69792BFF0,Barber Tucson Bank,90,1,0,Tucson - Arizona - United States
+697E08E00,Campbell Bank,105,1,0,Tucson - Arizona - United States
+6971E9FE0,Laila's Tucson Savings Bank,36,1,0,Tucson - Arizona - United States
+697261610,Poole Savings Bank,49,1,0,Tucson - Arizona - United States
+6973F7C90,Cassandra's Flagstaff Savings Bank,224,1,0,Flagstaff - Arizona - United States
+698221340,Shields Federal Credit Union,723,1,0,Henderson - Nevada - United States
+69747AF20,Potter Federal Credit Union,107,1,0,Henderson - Nevada - United States
+6976D2FA0,United Federal Credit Union,136,1,0,Las Vegas - Nevada - United States
+69821AB10,Henson Federal Credit Union,340,1,0,Las Vegas - Nevada - United States
+6977B3960,Clarissa's Bank,614,1,0,Las Vegas - Nevada - United States
+699240B60,Cunningham Las Vegas Savings Bank,290,1,0,Las Vegas - Nevada - United States
+698A0FCC0,Zahir's Las Vegas Federal Credit Union,174,1,0,Las Vegas - Nevada - United States
+6970DCCA0,Joel's Federal Credit Union,1074,1,0,Gardnerville - Nevada - United States
+6993CEDC0,Kirk Savings Bank,63,1,0,Reno - Nevada - United States
+6975D0940,Baylee's Savings Bank,440,1,0,Reno - Nevada - United States
+6980FACE0,Howell Savings Bank,150,1,0,Reno - Nevada - United States
+697E39FC0,Dominick's Federal Credit Union,193,1,0,Los Angeles - California - United States
+69744AA60,Welch Savings Bank,160,1,0,Compton - California - United States
+69744B320,Rafael's Federal Credit Union,282,1,0,La Mirada - California - United States
+6984D82A0,Barnes Savings Bank,7,1,0,Lakewood - California - United States
+698214FE0,Kashton's Bank,0,1,0,Lakewood - California - United States
+698F446B0,United Savings Bank,281,1,0,Lakewood - California - United States
+6982496B0,Holloway Federal Credit Union,552,1,0,Calabasas - California - United States
+699178D40,Judah's Bank,137,1,0,Calabasas - California - United States
+6984EC400,Sasha's Reseda Federal Credit Union,18,1,0,Reseda - California - United States
+6980C3AD0,Jason's Bank,16,1,0,Thousand Oaks - California - United States
+697C14F20,Ace's Savings Bank,89,1,0,Woodland Hills - California - United States
+6989F3D60,Belen's Federal Credit Union,38,1,0,Woodland Hills - California - United States
+3C5C4AA00,Adrianna's Chino Hills Federal Credit Union,47,1,0,Chino Hills - California - United States
+6988BCC00,Madelynn's Chino Hills Federal Credit Union,126,1,0,Chino Hills - California - United States
+697C60600,Rosemary's Bank,16,1,0,La Puente - California - United States
+698E1EC60,Walsh Federal Credit Union,16,1,0,La Puente - California - United States
+697C59510,Sophie's Federal Credit Union,52,1,0,Hacienda Heights - California - United States
+6973B3F60,Trevor's Bank,282,1,0,Hacienda Heights - California - United States
+698413C70,Yosef's Bank,315,1,0,West Covina - California - United States
+698770A50,Edwards Bank,250,1,0,National City - California - United States
+697FBE850,Benson Savings Bank,398,1,0,Del Mar - California - United States
+69900A8E0,Abigail's Federal Credit Union,128,1,0,Ramona - California - United States
+697D886F0,Barry Savings Bank,592,1,0,Ramona - California - United States
+69824B530,King Federal Credit Union,797,1,0,Solana Beach - California - United States
+698FFB120,Howell San Ysidro Savings Bank,193,1,0,San Ysidro - California - United States
+698557370,Martin Bank,42,1,0,San Ysidro - California - United States
+698A116F0,Stone Banning Federal Credit Union,152,1,0,Banning - California - United States
+69916BCB0,Landry's Federal Credit Union,3,1,0,Cathedral City - California - United States
+6976A1060,Rowan's Savings Bank,168,1,0,Cathedral City - California - United States
+6977B00E0,Osborne Federal Credit Union,570,1,0,La Quinta - California - United States
+696DCBDB0,Josephine's Federal Credit Union,2,1,0,Palm Desert - California - United States
+697030EF0,Rashad's Rancho Mirage Savings Bank,207,1,0,Rancho Mirage - California - United States
+6976455C0,French Sun City Savings Bank,6,1,0,Sun City - California - United States
+697ADC2C0,Marco's Bank,3,1,0,Sun City - California - United States
+697B3C4F0,Sparks Federal Credit Union,18,1,0,Sun City - California - United States
+697F713B0,Cade's Federal Credit Union,113,1,0,Sun City - California - United States
+697B4F980,Bautista Federal Credit Union,275,1,0,Irvine - California - United States
+697B034B0,United Savings Bank,0,1,0,Dana Point - California - United States
+69709D400,Masvidal Savings Bank,724,1,0,Santa Ana - California - United States
+697680BF0,Church Savings Bank,193,1,0,Tustin - California - United States
+69933D290,Cummings Federal Credit Union,975,1,0,Orange - California - United States
+6973DA850,Wall Orange Federal Credit Union,427,1,0,Orange - California - United States
+6980167D0,Davenport Savings Bank,1004,1,0,Corona - California - United States
+6982C6EB0,Reese Savings Bank,593,1,0,Corona - California - United States
+698149760,Shepherd Bank,1084,1,0,Corona - California - United States
+696F47E90,United Federal Credit Union,150,1,0,Corona - California - United States
+69710C060,McGuire Federal Credit Union,461,1,0,Moorpark - California - United States
+698D7E550,Hendrix Savings Bank,16,1,0,Simi Valley - California - United States
+697B2AAA0,Roach Bank,265,1,0,Bishop - California - United States
+6991CFB20,Lana's Bank,184,1,0,Monterey - California - United States
+6990AAFE0,Skye's Savings Bank,5,1,0,Seaside - California - United States
+6987952F0,Giana's Bank,263,1,0,Daly City - California - United States
+6994151F0,Green Bank,14,1,0,San Francisco - California - United States
+696E59E80,Greer San Francisco Savings Bank,134,1,0,San Francisco - California - United States
+69858B8F0,Rayan's San Francisco Bank,480,1,0,San Francisco - California - United States
+696F04100,Clare's Bank,1,1,0,Concord - California - United States
+697F55460,Barnes Bank,398,1,0,Antioch - California - United States
+698584CB0,Vance Vallejo Savings Bank,328,1,0,Vallejo - California - United States
+698683590,Faith's Savings Bank,0,1,0,Rohnert Park - California - United States
+6974EC940,Addisyn's Bank,587,1,0,Petaluma - California - United States
+697682E90,Stuart Bank,122,1,0,Petaluma - California - United States
+6984F3930,Nash Bank,90,1,0,San Jose - California - United States
+69737F160,Mekhi's San Jose Federal Credit Union,28,1,0,San Jose - California - United States
+69920DE20,Mustafa's Savings Bank,305,1,0,San Jose - California - United States
+697933DB0,United Federal Credit Union,11,1,0,San Jose - California - United States
+69847BAB0,United Federal Credit Union,26,1,0,San Jose - California - United States
+697B29510,Adrian's Bank,152,1,0,San Jose - California - United States
+697717890,Fowler Savings Bank,156,1,0,West Point - California - United States
+698272B60,Barker Federal Credit Union,522,1,0,Elk Grove - California - United States
+6981D8820,Ford Savings Bank,233,1,0,Elk Grove - California - United States
+697DFA780,Ellis Savings Bank,14,1,0,Fair Oaks - California - United States
+698D6B550,Marin Fair Oaks Federal Credit Union,2,1,0,Fair Oaks - California - United States
+698FC1500,Wilkerson Bank,362,1,0,Fair Oaks - California - United States
+697AB8DF0,Arianna's Bank,889,1,0,Folsom - California - United States
+69907E770,Rhea's Savings Bank,484,1,0,Colfax - California - United States
+6978F3E00,Reynolds Bank,528,1,0,Sacramento - California - United States
+698F7ABE0,Arielle's Bank,37,1,0,Redding - California - United States
+6989DF7A0,Cohen Federal Credit Union,136,1,0,Redding - California - United States
+697D25090,Jenkins Bank,146,1,0,Kaneohe - Hawaii - United States
+698186D60,Ashley Bank,773,1,0,Honolulu - Hawaii - United States
+6987945E0,Stokes Federal Credit Union,83,1,0,Honolulu - Hawaii - United States
+699249AA0,Toby's Federal Credit Union,226,1,0,Beaverton - Oregon - United States
+699172960,Ayleen's Federal Credit Union,310,1,0,Canby - Oregon - United States
+6987E1730,Belle's Fairview Savings Bank,39,1,0,Fairview - Oregon - United States
+697598B00,Mathis Savings Bank,1032,1,0,Hillsboro - Oregon - United States
+6993DCF40,Liv's Federal Credit Union,333,1,0,Portland - Oregon - United States
+69721DC90,Willis Savings Bank,334,1,0,Portland - Oregon - United States
+6972007C0,Piper's Savings Bank,304,1,0,Portland - Oregon - United States
+697AB0730,Frye Federal Credit Union,148,1,0,Portland - Oregon - United States
+697FB5A20,O'Neal Bank,105,1,0,Portland - Oregon - United States
+6978C2DC0,Wagner Salem Savings Bank,125,1,0,Salem - Oregon - United States
+6989A5AE0,Leia's Federal Credit Union,83,1,0,Lincoln City - Oregon - United States
+697C669F0,Rogers Savings Bank,1034,1,0,Lincoln City - Oregon - United States
+6971629E0,May Federal Credit Union,631,1,0,Jacksonville - Oregon - United States
+696DBCEA0,Kaliyah's Prineville Savings Bank,98,1,0,Prineville - Oregon - United States
+6991BBE20,Lorelai's Savings Bank,785,1,0,Sisters - Oregon - United States
+3DD358C30,Lowe Federal Credit Union,1343,1,0,Sisters - Oregon - United States
+697CDBBD0,Curtis Federal Credit Union,172,1,0,Hermiston - Oregon - United States
+698191670,Daniels Bank,719,1,0,Issaquah - Washington - United States
+69774A050,Brenda's Kent Savings Bank,52,1,0,Kent - Washington - United States
+699153A90,Bean Bank,423,1,0,Kent - Washington - United States
+6975AD030,Lynch Federal Credit Union,4,1,0,Kirkland - Washington - United States
+6990F1590,Guadalupe's Federal Credit Union,146,1,0,Kent - Washington - United States
+6980D96C0,Anson's Savings Bank,27,1,0,Marysville - Washington - United States
+6985920F0,Isaias's Bank,598,1,0,Marysville - Washington - United States
+6989FA590,Emily's Anderson Island Federal Credit Union,215,1,0,Anderson Island - Washington - United States
+697049EA0,Annalise's Savings Bank,257,1,0,Puyallup - Washington - United States
+698DECD40,Mitchell's Bank,3,1,0,Tacoma - Washington - United States
+6972A3850,Greene Federal Credit Union,24,1,0,University Place - Washington - United States
+69794C540,Phillips Savings Bank,32,1,0,University Place - Washington - United States
+698BCF7F0,Ari's Bank,122,1,0,Yakima - Washington - United States
+699008A60,Garza Bank,152,1,0,Yakima - Washington - United States
+698FA9B70,Norton Federal Credit Union,454,1,0,Yakima - Washington - United States
+698D00260,Shelby's Bank,275,1,0,Yakima - Washington - United States
+698A46EE0,Decker Walla Walla Savings Bank,50,1,0,Walla Walla - Washington - United States
+698CF8050,Finnegan's Savings Bank,837,1,0,Walla Walla - Washington - United States
+6991AB9E0,Humphrey Savings Bank,122,1,0,Walla Walla - Washington - United States
+697B4C9C0,Wallace Savings Bank,84,1,0,Walla Walla - Washington - United States
+3C5C4F850,Lester Anchorage Federal Credit Union,80,1,0,Anchorage - Alaska - United States
+6991FB6A0,Kristina's Savings Bank,113,1,0,Anchorage - Alaska - United States
+69A72CDB0,Louis's Thrift,37,1,0,Baldwinville - Massachusetts - United States
+6996A46B0,Dallas's Thrift,0,1,0,Lowell - Massachusetts - United States
+69B5AE6B0,Mann Bank,160,1,0,Lowell - Massachusetts - United States
+69AD177B0,Maximus's Federal Credit Union,29,1,0,Lowell - Massachusetts - United States
+69ABFFAF0,Waller Bank,7,1,0,Lowell - Massachusetts - United States
+69ABDB9A0,Tatum's Arlington Federal Credit Union,0,1,0,Arlington - Massachusetts - United States
+699E1E070,Keith Arlington Bank,8,1,0,Arlington - Massachusetts - United States
+69ABEB560,Keira's Thrift,194,1,0,North Falmouth - Massachusetts - United States
+69990B820,United Bank,22,1,0,North Falmouth - Massachusetts - United States
+69A04D4B0,Fuller Federal Credit Union,282,1,0,Fairhaven - Massachusetts - United States
+69B384200,Andrea's Epping Bank,0,1,0,Epping - New Hampshire - United States
+69A8FFB60,Rangel Thrift,45,1,0,Exeter - New Hampshire - United States
+699E7D830,Blakely's Seabrook Federal Credit Union,387,1,0,Seabrook - New Hampshire - United States
+69AAA9A90,Anders's Thrift,34,1,0,Farmington - Connecticut - United States
+69AC4D150,Williams Bank,91,1,0,Farmington - Connecticut - United States
+69B5B1650,Sariyah's Federal Credit Union,142,1,0,Newington - Connecticut - United States
+69A853F10,Leonel's Federal Credit Union,31,1,0,Moosup - Connecticut - United States
+699C7C2A0,Mayer Moosup Savings Bank,200,1,0,Moosup - Connecticut - United States
+69A10E0C0,Livingston Savings Bank,40,1,0,Old Lyme - Connecticut - United States
+699C7FF40,Duke Thrift,48,1,0,Sterling - Connecticut - United States
+6998F2DC0,Dillon's Savings Bank,131,1,0,Ivoryton - Connecticut - United States
+69AFC4AD0,Theodore's Milford Federal Credit Union,21,1,0,Milford - Connecticut - United States
+69A392C10,Carey Federal Credit Union,1,1,0,Old Saybrook - Connecticut - United States
+69B02C810,Sims Federal Credit Union,49,1,0,Old Saybrook - Connecticut - United States
+69B41FB70,McKenzie's Savings Bank,22,1,0,Bayonne - New Jersey - United States
+699F99D60,Strong Bayonne Bank,113,1,0,Bayonne - New Jersey - United States
+69AE7D0D0,Charles Thrift,0,1,0,East Orange - New Jersey - United States
+699B3BC00,Otto's Savings Bank,0,1,0,East Orange - New Jersey - United States
+699741C20,Thornton Bank,0,1,0,Essex Fells - New Jersey - United States
+69AFD1FA0,Anika's Fairview Thrift,204,1,0,Fairview - New Jersey - United States
+699B6C220,Colby's Montclair Savings Bank,18,1,0,Montclair - New Jersey - United States
+699F8CD50,Messiah's Bank,7,1,0,Montclair - New Jersey - United States
+69A344580,Emersyn's Federal Credit Union,303,1,0,Parsippany - New Jersey - United States
+69B3AD890,Gunner's Federal Credit Union,17,1,0,Springfield - New Jersey - United States
+69A1C7A00,Maria's Bank,2,1,0,Springfield - New Jersey - United States
+6998DDFA0,O'Connell Savings Bank,147,1,0,Mountainside - New Jersey - United States
+69B2CB750,Buck Savings Bank,89,1,0,Newark - New Jersey - United States
+69AA80B90,United Bank,15,1,0,Elizabeth - New Jersey - United States
+69AB36930,Aron's Federal Credit Union,3,1,0,Ridgewood - New Jersey - United States
+699649190,Elliot's Bank,29,1,0,Paterson - New Jersey - United States
+69AD00760,Rylee's Closter Bank,113,1,0,Closter - New Jersey - United States
+69B610CE0,Noe's Federal Credit Union,69,1,0,Harrington Park - New Jersey - United States
+69A02E670,United Savings Bank,42,1,0,Norwood - New Jersey - United States
+69B50FE00,Washington Savings Bank,1098,1,0,Norwood - New Jersey - United States
+69A835D70,Lauryn's Federal Credit Union,36,1,0,Summit - New Jersey - United States
+69B052B80,United Federal Credit Union,71,1,0,Summit - New Jersey - United States
+69AD9B4D0,Albert's Savings Bank,21,1,0,New Providence - New Jersey - United States
+699A7DF20,Brooklynn's New Providence Federal Credit Union,5,1,0,New Providence - New Jersey - United States
+69A37FBA0,Alicia's Bank,169,1,0,Penns Grove - New Jersey - United States
+69B2F34F0,Elora's Bank,158,1,0,Penns Grove - New Jersey - United States
+69B3ABA30,Lewis Bank,9,1,0,West Deptford - New Jersey - United States
+699D3D1E0,Abdullah's Thrift,3,1,0,Monroe Township - New Jersey - United States
+699D073C0,Porter Thrift,141,1,0,Rye - New York - United States
+6999330D0,Robertson Rye Thrift,31,1,0,Rye - New York - United States
+69B060F50,Angel's Thrift,9,1,0,Scarsdale - New York - United States
+69AA6B0D0,Boyle Savings Bank,0,1,0,Scarsdale - New York - United States
+69AF520B0,Johnson Savings Bank,0,1,0,Great Neck - New York - United States
+699EF05F0,Sofia's Great Neck Thrift,6,1,0,Great Neck - New York - United States
+69A975C10,Landyn's Thrift,3,1,0,Great Neck - New York - United States
+69A922640,Barrett Federal Credit Union,4,1,0,Great Neck - New York - United States
+69A0F25F0,Keith Bank,194,1,0,Inwood - New York - United States
+699E7E9A0,Manuel's Inwood Thrift,3,1,0,Inwood - New York - United States
+699A699C0,Bonilla Thrift,41,1,0,Sunnyside - New York - United States
+69A1CB6B0,Katalina's Federal Credit Union,32,1,0,Sunnyside - New York - United States
+69AD06FA0,Madden Thrift,0,1,0,Brooklyn - New York - United States
+69984FE90,Evalyn's Federal Credit Union,35,1,0,Brooklyn - New York - United States
+69B1FBCE0,United Federal Credit Union,0,1,0,Flushing - New York - United States
+69A9DE190,Aaron's Thrift,3,1,0,Bayside - New York - United States
+69A382FC0,Magnolia's Thrift,26,1,0,Bayside - New York - United States
+69B0CA230,Goodwin Federal Credit Union,113,1,0,East Elmhurst - New York - United States
+69B5AEB00,Dakota's East Elmhurst Thrift,0,1,0,East Elmhurst - New York - United States
+69ABB7D40,Bishop Bank,73,1,0,Howard Beach - New York - United States
+699F5F8C0,Eduardo's Savings Bank,52,1,0,Howard Beach - New York - United States
+699439BB0,Fletcher Federal Credit Union,74,1,0,Howard Beach - New York - United States
+69B555440,Kenley's Thrift,57,1,0,Howard Beach - New York - United States
+69AF6BCD0,United Bank,111,1,0,Howard Beach - New York - United States
+699E13FA0,Gabriella's Thrift,13,1,0,Kew Gardens - New York - United States
+699E58600,McGuire Savings Bank,2,1,0,Richmond Hill - New York - United States
+699ED88C0,Ares's Federal Credit Union,66,1,0,South Ozone Park - New York - United States
+69ABF8E50,Green Thrift,0,1,0,South Ozone Park - New York - United States
+69A4DD7A0,Keagan's Savings Bank,43,1,0,South Ozone Park - New York - United States
+699F723E0,McKenzie Thrift,106,1,0,South Ozone Park - New York - United States
+69A1300A0,Coffey Bank,62,1,0,Cedarhurst - New York - United States
+69B1DF480,Leal Bank,41,1,0,Cedarhurst - New York - United States
+699EDC570,Edison's Valley Stream Savings Bank,7,1,0,Valley Stream - New York - United States
+69AFFF3F0,Kai's Federal Credit Union,0,1,0,Valley Stream - New York - United States
+6996D9060,Mathews Valley Stream Federal Credit Union,4,1,0,Valley Stream - New York - United States
+69A12BFB0,Angelina's Bank,309,1,0,Breezy Point - New York - United States
+699AC5D70,Lim Thrift,316,1,0,Breezy Point - New York - United States
+699994B30,Eduardo's Savings Bank,0,1,0,West Islip - New York - United States
+69B5CAE30,Emilia's North Tonawanda Savings Bank,13,1,0,North Tonawanda - New York - United States
+69A8EB1D0,Maxine's Savings Bank,3,1,0,North Tonawanda - New York - United States
+6995994E0,Laurel's Buffalo Federal Credit Union,0,1,0,Buffalo - New York - United States
+69A84D2C0,Avalos Federal Credit Union,3,1,0,Buffalo - New York - United States
+69959BBE0,Cantrell Savings Bank,245,1,0,Farmington - New York - United States
+69B1404C0,Cervantes Federal Credit Union,139,1,0,Farmington - New York - United States
+69B69E650,Chang Hilton Bank,182,1,0,Hilton - New York - United States
+69B50D2A0,Terrence's Federal Credit Union,825,1,0,Hilton - New York - United States
+699D82520,Wayne's Thrift,96,1,0,Hilton - New York - United States
+69B460470,Nielsen Honeoye Falls Savings Bank,11,1,0,Honeoye Falls - New York - United States
+69B19DF70,Bob's Federal Credit Union,1,1,0,Pittsford - New York - United States
+6995B6E10,Hobbs Federal Credit Union,37,1,0,Pittsford - New York - United States
+69B0A9A90,Miles Savings Bank,9,1,0,Pittsford - New York - United States
+69AD26EE0,United Savings Bank,419,1,0,Victor - New York - United States
+6996FD380,Wayne's Savings Bank,541,1,0,Victor - New York - United States
+699C84060,Pittman Savings Bank,147,1,0,Horseheads - New York - United States
+699EF90A0,Tomasz's Thrift,50,1,0,Carnegie - Pennsylvania - United States
+69AB55380,Meadows East Pittsburgh Bank,46,1,0,East Pittsburgh - Pennsylvania - United States
+6997D6A80,Kaelyn's Savings Bank,6,1,0,Greensburg - Pennsylvania - United States
+69B2AEFC0,Kirby Thrift,37,1,0,Greensburg - Pennsylvania - United States
+69A632030,Patrick's Bank,48,1,0,New Galilee - Pennsylvania - United States
+69B618640,Leblanc Federal Credit Union,0,1,0,Clarion - Pennsylvania - United States
+699DD3740,United Federal Credit Union,186,1,0,Girard - Pennsylvania - United States
+69A53ABB0,Theodore's Savings Bank,21,1,0,Camp Hill - Pennsylvania - United States
+69A765BC0,Elliott Enola Federal Credit Union,9,1,0,Enola - Pennsylvania - United States
+699E47D70,Ellianna's Jonestown Federal Credit Union,95,1,0,Jonestown - Pennsylvania - United States
+69B377210,Kaur Bank,140,1,0,Hanover - Pennsylvania - United States
+69A7500D0,Jocelyn's Savings Bank,110,1,0,Schnecksville - Pennsylvania - United States
+69B3A3CC0,Edward's Federal Credit Union,499,1,0,Tunkhannock - Pennsylvania - United States
+69A66C430,Ryan Savings Bank,409,1,0,White Haven - Pennsylvania - United States
+69A2B16A0,Dorothy's Thrift,125,1,0,Newtown - Pennsylvania - United States
+699578BE0,Israel's Newtown Federal Credit Union,0,1,0,Newtown - Pennsylvania - United States
+6997987A0,Nixon's Federal Credit Union,1,1,0,Newtown - Pennsylvania - United States
+69AA52670,Amiyah's Savings Bank,122,1,0,Clifton Heights - Pennsylvania - United States
+69AE27950,Athena's Savings Bank,14,1,0,Lansdowne - Pennsylvania - United States
+699432F10,Boyer Federal Credit Union,67,1,0,Lansdowne - Pennsylvania - United States
+69A4702B0,Cantrell Thrift,19,1,0,Lansdowne - Pennsylvania - United States
+69A733E60,Ellis's Thrift,16,1,0,Coatesville - Pennsylvania - United States
+69B274BD0,Chase Bank,60,1,0,Pottstown - Pennsylvania - United States
+69AA8F600,Hale Federal Credit Union,11,1,0,Pottstown - Pennsylvania - United States
+6999C6820,Cherry Thrift,0,1,0,Newark - Delaware - United States
+699AC2080,Huang Bank,359,1,0,Hartly - Delaware - United States
+699776170,Sullivan Thrift,9,1,0,Chevy Chase - Maryland - United States
+69B11BFD0,Brynn's Federal Credit Union,79,1,0,Bethesda - Maryland - United States
+69A7734D0,Jensen Savings Bank,158,1,0,Bethesda - Maryland - United States
+69B19DB20,Dante's Bank,104,1,0,Clarksburg - Maryland - United States
+69A917870,Kylee's Federal Credit Union,83,1,0,Clarksburg - Maryland - United States
+69A511000,Lawson Germantown Federal Credit Union,0,1,0,Germantown - Maryland - United States
+69B3BC7C0,Kennedy Sparks Glencoe Thrift,39,1,0,Sparks Glencoe - Maryland - United States
+699D78020,Odom Savings Bank,0,1,0,Woodstock - Maryland - United States
+69B0CB380,Kimberly's Cumberland Bank,41,1,0,Cumberland - Maryland - United States
+69ABF78A0,Andres's Federal Credit Union,231,1,0,New Market - Maryland - United States
+69A892960,Khaleesi's Thrift,341,1,0,New Market - Maryland - United States
+69AB63040,United Savings Bank,151,1,0,Fairfax - Virginia - United States
+3DD55B010,Young Thrift,8,1,0,Arlington - Virginia - United States
+69B00AA30,Angelique's Thrift,216,1,0,Arlington - Virginia - United States
+69979D5A0,Mira's Bank,0,1,0,Glen Allen - Virginia - United States
+699619F70,Navarro Savings Bank,9,1,0,Williamsburg - Virginia - United States
+69A03A510,Sullivan Thrift,73,1,0,Williamsburg - Virginia - United States
+69A0F7CB0,Alaina's Federal Credit Union,0,1,0,Richmond - Virginia - United States
+699F45C40,Emmy's Lynchburg Savings Bank,107,1,0,Lynchburg - Virginia - United States
+69ACE9F70,Elias's Thrift,517,1,0,Forest - Virginia - United States
+699B8F150,Dario's Federal Credit Union,304,1,0,Vansant - Virginia - United States
+69B29E2F0,Braun Bank,254,1,0,Danville - West Virginia - United States
+69994B300,Jordyn's Federal Credit Union,464,1,0,Danville - West Virginia - United States
+699DE5130,Amia's Martinsburg Federal Credit Union,69,1,0,Martinsburg - West Virginia - United States
+69B5E86E0,Garza Bank,21,1,0,Martinsburg - West Virginia - United States
+699C674F0,Ayers Federal Credit Union,86,1,0,Wheeling - West Virginia - United States
+6996402B0,Garcia Thrift,0,1,0,Parkersburg - West Virginia - United States
+699C95140,Timothy's Federal Credit Union,168,1,0,Weston - West Virginia - United States
+69B00EF90,Archer Savings Bank,231,1,0,Franklinville - North Carolina - United States
+69B4E0220,Avery Thrift,51,1,0,Eden - North Carolina - United States
+69A10BE00,Bruno's Federal Credit Union,56,1,0,Eden - North Carolina - United States
+699D69620,Noble Federal Credit Union,0,1,0,Morrisville - North Carolina - United States
+69B015330,Raelyn's Federal Credit Union,1,1,0,Raleigh - North Carolina - United States
+69AB93450,Marin Savings Bank,406,1,0,Lumberton - North Carolina - United States
+69AD2F980,Calvin's Bank,409,1,0,Raeford - North Carolina - United States
+699AFFD50,Barnes Bank,217,1,0,Havelock - North Carolina - United States
+69A230AA0,McConnell Savings Bank,200,1,0,Havelock - North Carolina - United States
+69B494A50,Woodard Federal Credit Union,247,1,0,Havelock - North Carolina - United States
+69B6FC270,Leilani's Thrift,986,1,0,Bethune - South Carolina - United States
+699B35380,Natalie's Savings Bank,21,1,0,West Columbia - South Carolina - United States
+69A293520,United Thrift,14,1,0,West Columbia - South Carolina - United States
+69B735A50,Cantrell West Columbia Bank,0,1,0,West Columbia - South Carolina - United States
+69B5A2790,United Federal Credit Union,51,1,0,West Columbia - South Carolina - United States
+69ACD8630,Lailah's Bank,0,1,0,West Columbia - South Carolina - United States
+69B07E020,Bryan's Federal Credit Union,80,1,0,Goose Creek - South Carolina - United States
+69A4E0740,Elliott's Goose Creek Federal Credit Union,139,1,0,Goose Creek - South Carolina - United States
+69A27A1C0,Julianna's Goose Creek Bank,99,1,0,Goose Creek - South Carolina - United States
+69B1B1C60,Reese's Goose Creek Savings Bank,71,1,0,Goose Creek - South Carolina - United States
+69A381160,Sexton Bank,180,1,0,Goose Creek - South Carolina - United States
+6997FA2C0,Terry Savings Bank,311,1,0,Goose Creek - South Carolina - United States
+69B258460,Juliana's Thrift,1040,1,0,Darlington - South Carolina - United States
+69B39EEC0,Roy Thrift,3,1,0,Clemson - South Carolina - United States
+699DE80D0,Greta's Federal Credit Union,40,1,0,Simpsonville - South Carolina - United States
+699A9AB50,Gibson's Thrift,443,1,0,Blacksburg - South Carolina - United States
+3D81DB970,Patterson Thrift,294,1,0,Blacksburg - South Carolina - United States
+69A749480,Bridges Thrift,67,1,0,Fort Mill - South Carolina - United States
+69B3B70D0,Colten's Savings Bank,91,1,0,Fort Mill - South Carolina - United States
+69B37B340,Berry Bank,3878,1,0,Fort Mill - South Carolina - United States
+699F91B60,Gardner Fort Mill Savings Bank,76,1,0,Fort Mill - South Carolina - United States
+69B175B70,Hartman Savings Bank,116,1,0,Fort Mill - South Carolina - United States
+69AC39920,Landry's Savings Bank,21,1,0,Marietta - Georgia - United States
+69B307130,Richards Savings Bank,44,1,0,Snellville - Georgia - United States
+69A248800,Ariya's Savings Bank,170,1,0,Carrollton - Georgia - United States
+69A36E660,Jeffrey's Bank,7,1,0,Carrollton - Georgia - United States
+699534AF0,O'Connell Bank,49,1,0,Carrollton - Georgia - United States
+69A7D1A40,Craig Savings Bank,91,1,0,Jonesboro - Georgia - United States
+69A1D68A0,Hughes Bank,19,1,0,Jonesboro - Georgia - United States
+69A5B7FF0,Wall Jonesboro Bank,7,1,0,Jonesboro - Georgia - United States
+6996BCCD0,Abel's Federal Credit Union,1,1,0,Jonesboro - Georgia - United States
+6999F1120,Harmony's Savings Bank,58,1,0,Jonesboro - Georgia - United States
+6998FE3A0,Jolene's Rex Thrift,383,1,0,Rex - Georgia - United States
+69B27AB70,Alayna's Bank,113,1,0,Tyrone - Georgia - United States
+69B29A1F0,Apollo's Bank,232,1,0,Tyrone - Georgia - United States
+699C33380,Cole Atlanta Federal Credit Union,4,1,0,Atlanta - Georgia - United States
+69A7D9380,Trinity's Bank,1,1,0,Atlanta - Georgia - United States
+699BDA0D0,Itzel's Federal Credit Union,0,1,0,Atlanta - Georgia - United States
+699E2C6B0,Gustavo's Savings Bank,0,1,0,Atlanta - Georgia - United States
+69A3C5380,Jonas's Federal Credit Union,8,1,0,Atlanta - Georgia - United States
+69AD7CA30,Owen Atlanta Bank,27,1,0,Atlanta - Georgia - United States
+69AED88D0,United Federal Credit Union,60,1,0,Buford - Georgia - United States
+699CFDBE0,Quentin's Federal Credit Union,25,1,0,Rossville - Georgia - United States
+699FA09A0,Emmy's Tunnel Hill Bank,142,1,0,Tunnel Hill - Georgia - United States
+69A8FC2F0,Hayden's Tunnel Hill Savings Bank,113,1,0,Tunnel Hill - Georgia - United States
+69B5B1200,Heath Thrift,68,1,0,Byromville - Georgia - United States
+69ABC4900,Lawson's Federal Credit Union,9,1,0,Valdosta - Georgia - United States
+699E98120,Alexis's Savings Bank,44,1,0,Valdosta - Georgia - United States
+69B06CA30,McLaughlin Ponte Vedra Beach Federal Credit Union,22,1,0,Ponte Vedra Beach - Florida - United States
+69AD63C30,Skinner Bank,106,1,0,Daytona Beach - Florida - United States
+69A886EF0,Skyla's Bank,1,1,0,Port Orange - Florida - United States
+69A180950,Peralta Thrift,0,1,0,Jacksonville - Florida - United States
+69B3B19C0,Hoffman Jacksonville Savings Bank,7,1,0,Jacksonville - Florida - United States
+6996520A0,Dustin's Thrift,7,1,0,Jacksonville - Florida - United States
+699E25E80,McKee Bank,65,1,0,Jacksonville - Florida - United States
+69A7882B0,Gilbert Savings Bank,3,1,0,Jacksonville - Florida - United States
+69A3238E0,Meadows Bank,12,1,0,Jacksonville - Florida - United States
+699F63100,Mosley Bank,0,1,0,Jacksonville - Florida - United States
+699CBC1E0,August's Jacksonville Bank,84,1,0,Jacksonville - Florida - United States
+69A766470,Church Federal Credit Union,0,1,0,Jacksonville - Florida - United States
+69A400970,Sherman Federal Credit Union,3,1,0,Jacksonville - Florida - United States
+6996B4660,Jayden's Bank,3,1,0,Jacksonville - Florida - United States
+69B4B06D0,Stewart Federal Credit Union,16,1,0,Jacksonville - Florida - United States
+69A184600,Austin Jacksonville Thrift,0,1,0,Jacksonville - Florida - United States
+6998D9A70,Olsen Jacksonville Thrift,52,1,0,Jacksonville - Florida - United States
+69AAA02E0,Rosie's Savings Bank,3,1,0,Jacksonville - Florida - United States
+69ABDF1F0,Jon's Federal Credit Union,0,1,0,Jacksonville - Florida - United States
+69A1C5750,Rowland Federal Credit Union,38,1,0,Jacksonville - Florida - United States
+69A5D3EB0,Julio's Savings Bank,0,1,0,Jacksonville - Florida - United States
+699D6C180,United Federal Credit Union,14,1,0,Jacksonville - Florida - United States
+699656A50,Olsen Federal Credit Union,1,1,0,Jacksonville - Florida - United States
+69B596460,Powell Savings Bank,60,1,0,Jacksonville - Florida - United States
+69B0913B0,Waters Savings Bank,44,1,0,Jacksonville - Florida - United States
+699CD1470,Mullen Federal Credit Union,0,1,0,Jacksonville - Florida - United States
+699606340,Tucker Thrift,0,1,0,Jacksonville - Florida - United States
+69A4C4890,Wise Jacksonville Thrift,0,1,0,Jacksonville - Florida - United States
+699C72B10,Augustine's Thrift,0,1,0,Jacksonville - Florida - United States
+69B3C1EA0,Dalton's Bank,77,1,0,Cantonment - Florida - United States
+69A66EF90,Brooks's Savings Bank,21,1,0,Fort Walton Beach - Florida - United States
+69AC723A0,Pacheco Navarre Federal Credit Union,27,1,0,Navarre - Florida - United States
+69A8003C0,Rocco's Federal Credit Union,27,1,0,Milton - Florida - United States
+69A1E52E0,Humphrey Bank,70,1,0,Shalimar - Florida - United States
+69A8FE5A0,Parks Savings Bank,9,1,0,Shalimar - Florida - United States
+69A6BCDC0,Maeve's Gainesville Bank,4,1,0,Gainesville - Florida - United States
+69B6CE9D0,Duke Savings Bank,0,1,0,Casselberry - Florida - United States
+699CA25C0,Krueger Savings Bank,195,1,0,Orlando - Florida - United States
+69B6BA890,Zimmerman Federal Credit Union,653,1,0,Summerland Key - Florida - United States
+69A361A70,Galindo Savings Bank,64,1,0,Miami Gardens - Florida - United States
+699E41E50,York Thrift,74,1,0,Miami - Florida - United States
+699F5DA60,Tomas's Bank,0,1,0,Miami - Florida - United States
+69A093250,Floyd Savings Bank,6,1,0,Miami - Florida - United States
+69B06BD30,United Savings Bank,0,1,0,Fort Lauderdale - Florida - United States
+699ACDF70,Gibson's Fort Lauderdale Bank,10,1,0,Fort Lauderdale - Florida - United States
+69A6AAAB0,Peyton's Savings Bank,13,1,0,Fort Lauderdale - Florida - United States
+69B1B7740,Tony's Bank,58,1,0,Fort Lauderdale - Florida - United States
+699F423D0,Heath Thrift,0,1,0,Fort Lauderdale - Florida - United States
+699E8FAC0,Micheal's Federal Credit Union,0,1,0,Fort Lauderdale - Florida - United States
+69ACB22B0,Juliana's Fort Lauderdale Savings Bank,8,1,0,Fort Lauderdale - Florida - United States
+69B441560,Clara's Thrift,0,1,0,Fort Lauderdale - Florida - United States
+69A5AC9B0,Beard Savings Bank,1,1,0,Fort Lauderdale - Florida - United States
+699E25A20,Fernandez Federal Credit Union,0,1,0,Fort Lauderdale - Florida - United States
+69AD1B480,Stevens Federal Credit Union,0,1,0,Delray Beach - Florida - United States
+699D6A790,United Thrift,52,1,0,Delray Beach - Florida - United States
+69B39D4A0,Bowen's Federal Credit Union,597,1,0,Lake Worth - Florida - United States
+699717CB0,Page Thrift,225,1,0,Boynton Beach - Florida - United States
+409690610,United Bank,192,1,0,Riverview - Florida - United States
+69A30D580,Brock's Federal Credit Union,195,1,0,Tampa - Florida - United States
+69B3B7DD0,Ibrahim's Savings Bank,3,1,0,Tampa - Florida - United States
+69A2A3500,Flores Federal Credit Union,0,1,0,Saint Petersburg - Florida - United States
+69B3AAD40,Whitney Savings Bank,0,1,0,Saint Petersburg - Florida - United States
+69A4504F0,Kaylie's Seminole Savings Bank,92,1,0,Seminole - Florida - United States
+699A7B3C0,Jeffrey's Thrift,105,1,0,Seminole - Florida - United States
+69B5D4A70,Raylee's Bank,169,1,0,Auburndale - Florida - United States
+69B21D710,Saanvi's Bank,17,1,0,Auburndale - Florida - United States
+69AC8EAC0,Ariel's Bank,139,1,0,Lake Wales - Florida - United States
+69A5A20A0,Henderson Bank,4,1,0,Fort Myers - Florida - United States
+69A55F150,Moran Bank,0,1,0,Punta Gorda - Florida - United States
+69B60E190,Sadr Savings Bank,79,1,0,Bonita Springs - Florida - United States
+69A722460,United Thrift,211,1,0,Longboat Key - Florida - United States
+699EC7BB0,Aniyah's Savings Bank,41,1,0,Sarasota - Florida - United States
+69B550EF0,Milana's Bank,471,1,0,Myakka City - Florida - United States
+69AC078B0,McKee Savings Bank,37,1,0,Spring Hill - Florida - United States
+69B577620,United Federal Credit Union,67,1,0,Kissimmee - Florida - United States
+6995AA640,Isaias's Kissimmee Savings Bank,3,1,0,Kissimmee - Florida - United States
+69AD97840,Serenity's Federal Credit Union,2,1,0,Port Saint Lucie - Florida - United States
+699E3E5D0,Johanna's Thrift,11,1,0,Port Saint Lucie - Florida - United States
+69AD27780,McDowell Thrift,108,1,0,Port Saint Lucie - Florida - United States
+699DF0B70,Swanson Bank,17,1,0,Port Saint Lucie - Florida - United States
+69A9C3C40,United Savings Bank,104,1,0,Port Saint Lucie - Florida - United States
+69B6804C0,Dickson Savings Bank,26,1,0,Port Saint Lucie - Florida - United States
+699964220,Gardner Thrift,48,1,0,Port Saint Lucie - Florida - United States
+6994DECF0,Taylor Port Saint Lucie Savings Bank,7,1,0,Port Saint Lucie - Florida - United States
+69B4DAB60,Bernal Port Saint Lucie Thrift,80,1,0,Port Saint Lucie - Florida - United States
+69A9A30C0,Jerome's Bank,26,1,0,Madison - Alabama - United States
+699ECCE10,Alejandro's Madison Savings Bank,134,1,0,Madison - Alabama - United States
+699C9BDE0,Pruitt Thrift,95,1,0,Madison - Alabama - United States
+69B284BC0,Yates Mentone Savings Bank,205,1,0,Mentone - Alabama - United States
+69A0D4F90,English Bank,124,1,0,Spanish Fort - Alabama - United States
+6999D26F0,Graham Savings Bank,55,1,0,Spanish Fort - Alabama - United States
+699D98980,Leonard Federal Credit Union,110,1,0,Spanish Fort - Alabama - United States
+6998F47C0,Braydon's Eight Mile Bank,77,1,0,Eight Mile - Alabama - United States
+69B39BA90,Nixon's Bank,53,1,0,Thomasville - Alabama - United States
+699807790,Alexander's Savings Bank,36,1,0,Auburn - Alabama - United States
+69AADD200,Kemal's Thrift,154,1,0,Auburn - Alabama - United States
+69B2E98C0,Evangeline's Savings Bank,76,1,0,Auburn - Alabama - United States
+69A229560,Kaleb's Thrift,188,1,0,Auburn - Alabama - United States
+69AF517E0,Kairi's Clarksville Federal Credit Union,43,1,0,Clarksville - Tennessee - United States
+69A909730,Ibarra Clarksville Federal Credit Union,125,1,0,Clarksville - Tennessee - United States
+69B543630,Emerie's Savings Bank,32,1,0,Murfreesboro - Tennessee - United States
+6996C5390,Zahra's Thrift,0,1,0,Nashville - Tennessee - United States
+699F36940,Kelly Federal Credit Union,172,1,0,Dyersburg - Tennessee - United States
+69A139CE0,Richter Federal Credit Union,137,1,0,Dyersburg - Tennessee - United States
+69A41C410,Andrade Thrift,259,1,0,Dyer - Tennessee - United States
+69AF1DB70,Ali Cookeville Federal Credit Union,69,1,0,Cookeville - Tennessee - United States
+699F53A00,Klein Cookeville Bank,134,1,0,Cookeville - Tennessee - United States
+69AB3FC80,Leslie's Thrift,129,1,0,Cookeville - Tennessee - United States
+6994E1CB0,Ariyah's Burnsville Thrift,459,1,0,Burnsville - Mississippi - United States
+69AA829D0,Keaton's Federal Credit Union,112,1,0,Taylorsville - Mississippi - United States
+69AA81CD0,Roberts Bank,420,1,0,Vaughan - Mississippi - United States
+699ED2920,Alexandra's Savings Bank,20,1,0,Jackson - Mississippi - United States
+699EADBF0,Reign's Bank,2,1,0,Flowood - Mississippi - United States
+69A102180,Milan's Federal Credit Union,222,1,0,Waynesboro - Mississippi - United States
+699A60B00,Nielsen Thrift,1009,1,0,Waynesboro - Mississippi - United States
+69A4D18C0,Spence Federal Credit Union,13,1,0,Biloxi - Mississippi - United States
+69A636570,Hanna Biloxi Savings Bank,3,1,0,Biloxi - Mississippi - United States
+6994FA790,Aurelia's Savings Bank,0,1,0,Biloxi - Mississippi - United States
+69B1A2070,Brewer Mount Washington Bank,56,1,0,Mount Washington - Kentucky - United States
+699641860,Todd Bank,8,1,0,Mount Washington - Kentucky - United States
+69AADFD60,Christine's Savings Bank,43,1,0,Nicholasville - Kentucky - United States
+69ABC4D60,Kirby Savings Bank,10,1,0,Nicholasville - Kentucky - United States
+69B3100B0,Myles's Nicholasville Thrift,1,1,0,Nicholasville - Kentucky - United States
+6996FF1C0,Lang Federal Credit Union,76,1,0,Covington - Kentucky - United States
+6997DA740,Giselle's Savings Bank,98,1,0,Ft Mitchell - Kentucky - United States
+6997724C0,Pugh Federal Credit Union,114,1,0,Ft Mitchell - Kentucky - United States
+69B5106B0,Dunlap Federal Credit Union,31,1,0,Erlanger - Kentucky - United States
+6998D3F20,United Federal Credit Union,276,1,0,Bellevue - Kentucky - United States
+69A6490B0,Howard Columbus Federal Credit Union,0,1,0,Columbus - Ohio - United States
+699A8D6D0,Baker Federal Credit Union,7,1,0,Columbus - Ohio - United States
+69B044600,Marie's Bank,0,1,0,Columbus - Ohio - United States
+699740670,Maddox's Savings Bank,34,1,0,Columbus - Ohio - United States
+69A6C0620,Mullins Thrift,186,1,0,Clyde - Ohio - United States
+69A560FC0,Madilynn's Thrift,112,1,0,Curtice - Ohio - United States
+699B212D0,Macy's Thrift,444,1,0,Martins Ferry - Ohio - United States
+69A7F51E0,Cedric's Scio Savings Bank,38,1,0,Scio - Ohio - United States
+699FE2840,Kaliyah's Savings Bank,305,1,0,Scio - Ohio - United States
+69AD73C50,Bernal Berea Thrift,29,1,0,Berea - Ohio - United States
+699756A30,United Thrift,131,1,0,Berea - Ohio - United States
+69B4B0F90,Mikayla's Federal Credit Union,46,1,0,Painesville - Ohio - United States
+69A969030,Walton Thrift,1,1,0,Painesville - Ohio - United States
+69B550650,Zane's Bank,1,1,0,Painesville - Ohio - United States
+69A05A4D0,Davian's Cleveland Thrift,3,1,0,Cleveland - Ohio - United States
+69948F6B0,Allen Bank,173,1,0,Strongsville - Ohio - United States
+699C37930,Duran Thrift,72,1,0,Strongsville - Ohio - United States
+699F0D620,King's Savings Bank,221,1,0,Strongsville - Ohio - United States
+69B657A30,Piper's Thrift,320,1,0,Strongsville - Ohio - United States
+69B4C8020,Townsend Bank,224,1,0,Strongsville - Ohio - United States
+699427070,Fields Thrift,23,1,0,Hudson - Ohio - United States
+69A744B00,Walker Medina Thrift,41,1,0,Medina - Ohio - United States
+699C50880,Hayden's Bank,69,1,0,Columbiana - Ohio - United States
+6999AA1A0,Renata's Bank,13,1,0,Columbiana - Ohio - United States
+69954DE70,Lacey's Federal Credit Union,197,1,0,East Palestine - Ohio - United States
+69AAC06A0,Mustafa's Bank,192,1,0,East Palestine - Ohio - United States
+699576050,Stone Bank,0,1,0,Youngstown - Ohio - United States
+6999EF720,Gallegos Savings Bank,43,1,0,Youngstown - Ohio - United States
+699461DE0,Ariya's Savings Bank,1,1,0,Youngstown - Ohio - United States
+69997C070,Ashley's Savings Bank,37,1,0,Lebanon - Ohio - United States
+6998E77E0,Sincere's Savings Bank,113,1,0,Lebanon - Ohio - United States
+699430C60,Coffey Mason Thrift,19,1,0,Mason - Ohio - United States
+69B6302C0,Franco Federal Credit Union,9,1,0,Cincinnati - Ohio - United States
+69995B300,Blevins Federal Credit Union,54,1,0,Fairborn - Ohio - United States
+69B2FD0F0,Kaysen's Fairborn Savings Bank,17,1,0,Fairborn - Ohio - United States
+3D91F7C50,Owens Federal Credit Union,33,1,0,Fairborn - Ohio - United States
+69A486BF0,Chaya's Savings Bank,0,1,0,Dayton - Ohio - United States
+69A556220,Williams Bank,0,1,0,Dayton - Ohio - United States
+69B3ED4C0,Barrera Savings Bank,3,1,0,Dayton - Ohio - United States
+69AE57270,Kelly Thrift,7,1,0,Dayton - Ohio - United States
+69A02B6F0,Schaefer Bank,0,1,0,Dayton - Ohio - United States
+699450860,Albert's Thrift,0,1,0,Dayton - Ohio - United States
+69B267FF0,Gordon Thrift,0,1,0,Belpre - Ohio - United States
+699ADAB80,Boyd Savings Bank,27,1,0,Lima - Ohio - United States
+69B417110,Darren's Lima Bank,68,1,0,Lima - Ohio - United States
+69A91E0F0,Richter Savings Bank,0,1,0,Lima - Ohio - United States
+69AB92740,Samira's Federal Credit Union,204,1,0,Lima - Ohio - United States
+699739A10,Dulce's Bank,0,1,0,Lima - Ohio - United States
+69B4C2DD0,Noor's Thrift,20,1,0,Lima - Ohio - United States
+69A8AB630,United Federal Credit Union,26,1,0,Lima - Ohio - United States
+69A16AE10,Combs Thrift,134,1,0,Ada - Ohio - United States
+69B0211C0,Bianca's Savings Bank,88,1,0,Cloverdale - Ohio - United States
+69B6C8A20,Ballard Thrift,38,1,0,Danville - Indiana - United States
+699638070,Canaan's Savings Bank,44,1,0,Indianapolis - Indiana - United States
+69AEEDF50,Leanna's Savings Bank,311,1,0,New Haven - Indiana - United States
+699973E10,Patterson Federal Credit Union,51,1,0,New Haven - Indiana - United States
+6994D2570,Steven's New Haven Bank,72,1,0,New Haven - Indiana - United States
+699443360,McCall Bank,338,1,0,Linton - Indiana - United States
+69AFDEFD0,Reid Federal Credit Union,243,1,0,Linton - Indiana - United States
+699C40860,Clarke Savings Bank,66,1,0,West Terre Haute - Indiana - United States
+69AE108E0,Porter's West Terre Haute Savings Bank,192,1,0,West Terre Haute - Indiana - United States
+69AD8CA30,Mina's Marysville Federal Credit Union,9,1,0,Marysville - Michigan - United States
+69B0127D0,United Bank,0,1,0,Marysville - Michigan - United States
+69AFE16D0,Sparks Savings Bank,40,1,0,Dearborn - Michigan - United States
+69974E7B0,Winston's Savings Bank,5,1,0,Dearborn - Michigan - United States
+69A222D20,Preston Dearborn Heights Thrift,0,1,0,Dearborn Heights - Michigan - United States
+3DFEE5BC0,Bonilla Bank,279,1,0,Erie - Michigan - United States
+69998A630,Rowland Savings Bank,34,1,0,Livonia - Michigan - United States
+699659150,Conrad Grosse Pointe Savings Bank,149,1,0,Grosse Pointe - Michigan - United States
+69B6D8170,United Thrift,0,1,0,Oak Park - Michigan - United States
+69B4A0D60,McIntyre Federal Credit Union,13,1,0,Pontiac - Michigan - United States
+69AC19220,Mitchell's Federal Credit Union,325,1,0,Dewitt - Michigan - United States
+69A472E10,Underwood Bank,54,1,0,Owosso - Michigan - United States
+69987FE40,Roberts Federal Credit Union,110,1,0,Sunfield - Michigan - United States
+699A47B50,Brock Federal Credit Union,51,1,0,Kalamazoo - Michigan - United States
+6999E40B0,Colette's Savings Bank,16,1,0,Kalamazoo - Michigan - United States
+69A9EFBB0,Chloe's Federal Credit Union,65,1,0,Paw Paw - Michigan - United States
+69AD83F60,Collier Thrift,385,1,0,Paw Paw - Michigan - United States
+69992AA70,Dallas's Thrift,67,1,0,Paw Paw - Michigan - United States
+69B58D960,Kristina's Thrift,500,1,0,Pleasant Lake - Michigan - United States
+69A4DCEF0,Katelyn's Bank,4,1,0,Muskegon - Michigan - United States
+699D10B40,Ryland's Bank,162,1,0,Benzonia - Michigan - United States
+69A1AA590,Randolph Beulah Thrift,92,1,0,Beulah - Michigan - United States
+69A55F5A0,Kaiden's Federal Credit Union,18,1,0,Traverse City - Michigan - United States
+6996AAE90,Melania's Savings Bank,53,1,0,Traverse City - Michigan - United States
+699703740,Tomasz's Traverse City Savings Bank,12,1,0,Traverse City - Michigan - United States
+69B1C2D80,Raylan's Federal Credit Union,13,1,0,Traverse City - Michigan - United States
+69B48F3B0,Cantrell Thrift,93,1,0,Iron Mountain - Michigan - United States
+6998CB420,Frank Bank,131,1,0,Kingsford - Michigan - United States
+69B6DEDE0,Hail Thrift,442,1,0,Earlham - Iowa - United States
+69B5DB6C0,Fisher Bank,304,1,0,Indianola - Iowa - United States
+69A4D2170,Potter Savings Bank,210,1,0,Indianola - Iowa - United States
+69B694E80,Mara's Savings Bank,527,1,0,Fort Dodge - Iowa - United States
+69A4AE540,Phelps Savings Bank,468,1,0,Fort Dodge - Iowa - United States
+69B555CF0,Markus's Thrift,282,1,0,Hills - Iowa - United States
+69B425AE0,Terry Savings Bank,206,1,0,New London - Iowa - United States
+69A196D30,Palacios Thrift,42,1,0,Muscatine - Iowa - United States
+6995EE120,Tate's Savings Bank,73,1,0,Muscatine - Iowa - United States
+699AAE800,Singleton Davenport Bank,1,1,0,Davenport - Iowa - United States
+69A96AE90,Higgins Savings Bank,1,1,0,Davenport - Iowa - United States
+69A1B1F00,Farmer Federal Credit Union,13,1,0,Davenport - Iowa - United States
+69A34A960,Johns Federal Credit Union,0,1,0,Davenport - Iowa - United States
+69B5372E0,Morton Federal Credit Union,801,1,0,Pewaukee - Wisconsin - United States
+69A9F3850,Payne Pewaukee Bank,10,1,0,Pewaukee - Wisconsin - United States
+3DD55ABB0,Swanson Sturtevant Savings Bank,237,1,0,Sturtevant - Wisconsin - United States
+69A85BD40,Wade Federal Credit Union,0,1,0,Milwaukee - Wisconsin - United States
+69983E920,Alexa's Savings Bank,14,1,0,Milwaukee - Wisconsin - United States
+69A113780,United Savings Bank,20,1,0,Milwaukee - Wisconsin - United States
+69B2E0990,Barber Thrift,59,1,0,Milwaukee - Wisconsin - United States
+69B3C08F0,United Federal Credit Union,0,1,0,Milwaukee - Wisconsin - United States
+699C8ACD0,Ariyah's Federal Credit Union,35,1,0,Milwaukee - Wisconsin - United States
+69A36EAB0,Spencer Savings Bank,1,1,0,Milwaukee - Wisconsin - United States
+69B367690,United Bank,0,1,0,Milwaukee - Wisconsin - United States
+69A96A5F0,Higgins Thrift,0,1,0,Milwaukee - Wisconsin - United States
+6998B5030,Dickson Savings Bank,0,1,0,Milwaukee - Wisconsin - United States
+6998EDFD0,Fletcher's Milwaukee Bank,0,1,0,Milwaukee - Wisconsin - United States
+69AF1D720,Sutton Bank,139,1,0,Milwaukee - Wisconsin - United States
+699BBD290,Frida's Federal Credit Union,1,1,0,Milwaukee - Wisconsin - United States
+69A90A890,Nala's Racine Bank,24,1,0,Racine - Wisconsin - United States
+69B2DD9D0,Quinn's Federal Credit Union,509,1,0,Gillett - Wisconsin - United States
+3DD55DB80,United Bank,285,1,0,Gillett - Wisconsin - United States
+69A172790,Kirk Bank,266,1,0,Harris - Minnesota - United States
+69A27C480,Kora's Hugo Thrift,178,1,0,Hugo - Minnesota - United States
+69A8E2B20,Dodson Savings Bank,104,1,0,Isanti - Minnesota - United States
+69A666DB0,Liv's Thrift,45,1,0,Saint Paul - Minnesota - United States
+69AEBC640,Jayce's Federal Credit Union,0,1,0,Saint Paul - Minnesota - United States
+69B34C450,Richmond Thrift,0,1,0,Saint Paul - Minnesota - United States
+69B65B6E0,Rivers Saint Paul Federal Credit Union,3,1,0,Saint Paul - Minnesota - United States
+69ABE37A0,Schultz Bank,37,1,0,Saint Paul - Minnesota - United States
+69B3271E0,Riley's Thrift,32,1,0,Saint Paul - Minnesota - United States
+69A76EB00,Stone Thrift,66,1,0,Saint Paul - Minnesota - United States
+699816B00,Amora's Bank,0,1,0,Saint Paul - Minnesota - United States
+699EDD280,Stein Saint Paul Thrift,27,1,0,Saint Paul - Minnesota - United States
+69B300920,Clay's Bank,0,1,0,Saint Paul - Minnesota - United States
+69B17C7E0,Hail Thrift,0,1,0,Saint Paul - Minnesota - United States
+699FF6D60,Lilly's Thrift,0,1,0,Saint Paul - Minnesota - United States
+69B2D57C0,Kylie's Bank,180,1,0,Saint Paul - Minnesota - United States
+699F56E10,Sterling's Federal Credit Union,0,1,0,Saint Paul - Minnesota - United States
+69AF76A50,Scarlett's Bank,0,1,0,Saint Paul - Minnesota - United States
+69A613140,Beatrice's Savings Bank,136,1,0,Buffalo - Minnesota - United States
+6995700D0,Finley Buffalo Bank,149,1,0,Buffalo - Minnesota - United States
+699715E40,McKay Federal Credit Union,457,1,0,Champlin - Minnesota - United States
+6998348B0,Alejandra's Federal Credit Union,64,1,0,Shakopee - Minnesota - United States
+69AAA8D90,Finnegan's Thrift,41,1,0,Shakopee - Minnesota - United States
+6997AB310,Massey Federal Credit Union,300,1,0,Shakopee - Minnesota - United States
+699A3C950,Tristian's Zumbrota Savings Bank,71,1,0,Zumbrota - Minnesota - United States
+69A5429B0,Roach Le Center Bank,11,1,0,Le Center - Minnesota - United States
+69B1375D0,Kase's Savings Bank,9,1,0,Saint Cloud - Minnesota - United States
+699F183E0,Harold's Thrift,1053,1,0,Alexandria - Minnesota - United States
+69B4FF5B0,Jones Thrift,933,1,0,Detroit Lakes - Minnesota - United States
+69AFF60C0,Lilian's Detroit Lakes Thrift,571,1,0,Detroit Lakes - Minnesota - United States
+6995C2CF0,Blair Savings Bank,0,1,0,Grayslake - Illinois - United States
+69A51F5C0,Glover Thrift,77,1,0,Grayslake - Illinois - United States
+69995DE60,Porter's Grayslake Federal Credit Union,49,1,0,Grayslake - Illinois - United States
+69A0DC4A0,Stephens Bank,7,1,0,Grayslake - Illinois - United States
+6995FB590,Lorenzo's River Grove Federal Credit Union,0,1,0,River Grove - Illinois - United States
+6999DA910,Banks Savings Bank,18,1,0,Berwyn - Illinois - United States
+699DFAB90,Levi's Federal Credit Union,4,1,0,Berwyn - Illinois - United States
+699E50CC0,Odonnell Berwyn Bank,27,1,0,Berwyn - Illinois - United States
+69979AA40,Soto Savings Bank,1,1,0,Berwyn - Illinois - United States
+69B198030,Chase's Thrift,243,1,0,Chicago - Illinois - United States
+699C75650,Yara's Federal Credit Union,8,1,0,Chicago - Illinois - United States
+69B5B8BC0,McConnell Federal Credit Union,0,1,0,Chicago - Illinois - United States
+69A3E1F80,Mercado Savings Bank,6,1,0,Elmwood Park - Illinois - United States
+699AF7B80,Lucas Savings Bank,63,1,0,Cicero - Illinois - United States
+69A5A5050,Wood Bank,13,1,0,Cicero - Illinois - United States
+69A424A70,United Savings Bank,75,1,0,Rock Island - Illinois - United States
+69A7299A0,Ainsley's Geneseo Federal Credit Union,136,1,0,Geneseo - Illinois - United States
+69A7A5B10,Hamilton Geneseo Federal Credit Union,424,1,0,Geneseo - Illinois - United States
+69ACDF260,Christian Bank,141,1,0,Normal - Illinois - United States
+69AB0CD40,Beasley Federal Credit Union,19,1,0,East Saint Louis - Illinois - United States
+69A0F48A0,Ellison Savings Bank,98,1,0,Highland - Illinois - United States
+69B16FBC0,Lang Bank,278,1,0,Saint Jacob - Illinois - United States
+6998B0AC0,Josie's Federal Credit Union,131,1,0,Palestine - Illinois - United States
+69A795B40,Oliver's Federal Credit Union,0,1,0,Saint Louis - Missouri - United States
+69953B750,River's Saint Louis Bank,13,1,0,Saint Louis - Missouri - United States
+69A792750,Browning Bank,0,1,0,Saint Louis - Missouri - United States
+69A64A660,Kalel's Federal Credit Union,114,1,0,Oak Grove - Missouri - United States
+69B1B6A50,Bauer Thrift,184,1,0,Lebanon - Missouri - United States
+69A23AB20,Bradley Savings Bank,3,1,0,Springfield - Missouri - United States
+69AB0F010,Annalee's Lawrence Savings Bank,14,1,0,Lawrence - Kansas - United States
+69ADAAC10,Angelique's Savings Bank,183,1,0,Salina - Kansas - United States
+69B136480,Burke Thrift,249,1,0,Salina - Kansas - United States
+69B7021D0,Harrison Bank,227,1,0,Salina - Kansas - United States
+69B42F720,Arias Thrift,31,1,0,La Vista - Nebraska - United States
+69B415B50,Durham Bank,44,1,0,La Vista - Nebraska - United States
+69A566220,Jenna's Bank,281,1,0,La Vista - Nebraska - United States
+69A437180,Hardy West Point Bank,975,1,0,West Point - Nebraska - United States
+69A99A600,Miley's Bank,63,1,0,New Orleans - Louisiana - United States
+6997D95E0,Jennings Savings Bank,61,1,0,New Orleans - Louisiana - United States
+69B6D8E80,Aaden's Bank,37,1,0,New Orleans - Louisiana - United States
+699B001A0,Avery Bogalusa Savings Bank,257,1,0,Bogalusa - Louisiana - United States
+69ACADD50,Crosby's Thrift,676,1,0,Crowley - Louisiana - United States
+69B5EB660,Lindsey Bank,182,1,0,Gueydan - Louisiana - United States
+69B51BD50,Andersen Bank,43,1,0,Jennings - Louisiana - United States
+3DB38ECB0,Tessa's Bank,82,1,0,Jennings - Louisiana - United States
+69A1FD0B0,Herring Bank,24,1,0,Lake Charles - Louisiana - United States
+6995EB600,Damian's Bank,31,1,0,Lake Charles - Louisiana - United States
+3D8CC0200,Dorian's Thrift,33,1,0,Lake Charles - Louisiana - United States
+699DF29C0,Kimora's Bank,1,1,0,Lake Charles - Louisiana - United States
+69ABAB9D0,Chloe's Federal Credit Union,19,1,0,Gonzales - Louisiana - United States
+699C27900,Imani's Savings Bank,104,1,0,Bossier City - Louisiana - United States
+69B018FE0,Warner Thrift,156,1,0,Bossier City - Louisiana - United States
+69B57E6D0,Cristian's Bank,146,1,0,Bossier City - Louisiana - United States
+699528390,Wolfe Harrison Bank,123,1,0,Harrison - Arkansas - United States
+69A5B2D80,Joey's Bank,69,1,0,Ringwood - Oklahoma - United States
+699C597C0,Russo Tahlequah Thrift,1106,1,0,Tahlequah - Oklahoma - United States
+69A7AFBF0,Banks Bank,86,1,0,Carrollton - Texas - United States
+69952D610,Berger Bank,9,1,0,Carrollton - Texas - United States
+699663680,Sweeney Bank,0,1,0,Garland - Texas - United States
+69AC9C3B0,McCann Savings Bank,0,1,0,Garland - Texas - United States
+69AA1DC70,Eden's Thrift,14,1,0,Sachse - Texas - United States
+69AB8A100,Penelope's Mesquite Thrift,0,1,0,Mesquite - Texas - United States
+69B31C460,Hughes Federal Credit Union,0,1,0,Royse City - Texas - United States
+699F30150,Sanford Thrift,0,1,0,Dallas - Texas - United States
+69AA96250,Blanchard Dallas Savings Bank,0,1,0,Dallas - Texas - United States
+699E4E5E0,Ezekiel's Thrift,0,1,0,Dallas - Texas - United States
+69B17F7C0,Jonathan's Thrift,17,1,0,Mineola - Texas - United States
+69AF7DB20,Jakob's Savings Bank,0,1,0,Arlington - Texas - United States
+69A4CA800,Campbell Federal Credit Union,834,1,0,Venus - Texas - United States
+69973B850,Marlowe's Federal Credit Union,4,1,0,Spring - Texas - United States
+69B0C0A70,Annika's Spring Federal Credit Union,18,1,0,Spring - Texas - United States
+699A888D0,Ivy's Bellaire Federal Credit Union,48,1,0,Bellaire - Texas - United States
+69ACA3490,Dodson Bank,116,1,0,Sugar Land - Texas - United States
+69AF588E0,Hess Savings Bank,13,1,0,Sugar Land - Texas - United States
+69A956440,Marcel's Thrift,0,1,0,Sugar Land - Texas - United States
+69A509690,McDonald Savings Bank,0,1,0,Sugar Land - Texas - United States
+69A834C10,Morrison Federal Credit Union,14,1,0,Sugar Land - Texas - United States
+69B5431E0,Vang Thrift,224,1,0,Sugar Land - Texas - United States
+69A9FD030,Anya's Bank,3,1,0,Sugar Land - Texas - United States
+69A0C7280,Brooks Federal Credit Union,20,1,0,Sugar Land - Texas - United States
+699599DA0,Vang Savings Bank,0,1,0,Sugar Land - Texas - United States
+69B1D8C70,Wilkerson Thrift,0,1,0,Sugar Land - Texas - United States
+69B41B670,Alexander Bank,8,1,0,Sugar Land - Texas - United States
+699A0EA10,Brooks Thrift,0,1,0,Sugar Land - Texas - United States
+699E4A060,Maddux's Savings Bank,13,1,0,Sugar Land - Texas - United States
+699BC5080,Monserrat's Sugar Land Savings Bank,1,1,0,Sugar Land - Texas - United States
+69A4227C0,Lowery Pearland Thrift,0,1,0,Pearland - Texas - United States
+69AFC00F0,Garner Bank,15,1,0,Bryan - Texas - United States
+69983C220,Cecilia's Savings Bank,2,1,0,Laredo - Texas - United States
+69B680D60,London's Savings Bank,0,1,0,San Antonio - Texas - United States
+69B096EE0,Aarav's San Antonio Thrift,68,1,0,San Antonio - Texas - United States
+69A8DEA00,Dalary's Bank,17,1,0,San Antonio - Texas - United States
+69A48CB40,United Federal Credit Union,0,1,0,San Antonio - Texas - United States
+699E5BE50,Joanna's San Antonio Savings Bank,0,1,0,San Antonio - Texas - United States
+69B6A93A0,Drew's San Antonio Bank,174,1,0,San Antonio - Texas - United States
+699A94790,Aileen's Thrift,7,1,0,San Antonio - Texas - United States
+69B262050,Alec's Bank,0,1,0,San Antonio - Texas - United States
+69A1B7160,Gavin's Bank,699,1,0,Aransas Pass - Texas - United States
+699642100,Asa's Bank,263,1,0,Port Aransas - Texas - United States
+699A3FD80,Rex's Savings Bank,86,1,0,Robstown - Texas - United States
+699D1B410,United Thrift,29,1,0,Brownsville - Texas - United States
+69B270660,Anna's Bank,23,1,0,Brownsville - Texas - United States
+69B2628F0,Kennedy's Brownsville Bank,0,1,0,Brownsville - Texas - United States
+69A78EAA0,Serena's Savings Bank,13,1,0,Brownsville - Texas - United States
+69A4A92C0,Howell Thrift,0,1,0,Brownsville - Texas - United States
+699AC88D0,Levy Savings Bank,6,1,0,Brownsville - Texas - United States
+699A28870,Ronnie's Bank,47,1,0,Brownsville - Texas - United States
+69ADD5DB0,Walter's Savings Bank,1,1,0,Brownsville - Texas - United States
+69B2FD550,Malia's Thrift,174,1,0,La Feria - Texas - United States
+69A1645F0,Cook Savings Bank,6,1,0,San Benito - Texas - United States
+69967AB90,Bowers Georgetown Thrift,12,1,0,Georgetown - Texas - United States
+3DD55A300,Conner Federal Credit Union,9,1,0,Georgetown - Texas - United States
+699C6BA40,Cayden's Bank,171,1,0,Big Spring - Texas - United States
+69A1E4A30,Keith's Bank,184,1,0,Big Spring - Texas - United States
+69A2DA5D0,Mata Thrift,136,1,0,Big Spring - Texas - United States
+699A50AE0,Valeria's Savings Bank,200,1,0,Big Spring - Texas - United States
+699D7F9B0,United Federal Credit Union,14,1,0,Aurora - Colorado - United States
+69AF10660,Reilly Bank,1,1,0,Aurora - Colorado - United States
+69ADA8970,Stevenson Federal Credit Union,10,1,0,Aurora - Colorado - United States
+69B48AE20,Briggs Thrift,0,1,0,Aurora - Colorado - United States
+69A0A06C0,Alexandra's Federal Credit Union,0,1,0,Aurora - Colorado - United States
+69A547820,Russell's Bank,9,1,0,Commerce City - Colorado - United States
+699C6C2E0,Robert's Savings Bank,370,1,0,Erie - Colorado - United States
+69A16BB10,Ayala Bank,0,1,0,Fort Collins - Colorado - United States
+69AC616D0,Samir's Savings Bank,3,1,0,Fort Collins - Colorado - United States
+69A5DCE00,Barber Greeley Bank,59,1,0,Greeley - Colorado - United States
+69B35F010,Foley Pueblo Savings Bank,10,1,0,Pueblo - Colorado - United States
+69A3852A0,Byrd Bank,3,1,0,Pueblo - Colorado - United States
+69A3968D0,Michael's Federal Credit Union,156,1,0,Pueblo - Colorado - United States
+69A6FD240,Saylor's Savings Bank,15,1,0,Pueblo - Colorado - United States
+699A1C190,Berry Federal Credit Union,314,1,0,Pocatello - Idaho - United States
+3E06C51D0,Keanu's Bank,147,1,0,Pocatello - Idaho - United States
+69B63E020,Kennedy Savings Bank,348,1,0,Pocatello - Idaho - United States
+69A226E60,Nikolai's Federal Credit Union,1,1,0,Twin Falls - Idaho - United States
+699FDE2B0,Finnegan's Rexburg Federal Credit Union,324,1,0,Rexburg - Idaho - United States
+69AB62780,Zuri's Federal Credit Union,118,1,0,Sugar City - Idaho - United States
+69B1FF550,Amani's Federal Credit Union,30,1,0,Sandy - Utah - United States
+69AFCC470,Simeon's Bank,201,1,0,Sandy - Utah - United States
+69B15E1E0,Bean Bank,25,1,0,Salt Lake City - Utah - United States
+69B599CB0,Harlee's Savings Bank,0,1,0,Mesa - Arizona - United States
+69A444A20,Avery's Thrift,0,1,0,Gilbert - Arizona - United States
+699D87C00,Adelynn's Savings Bank,16,1,0,Glendale - Arizona - United States
+3D91FA360,Aldo's Bank,19,1,0,Peoria - Arizona - United States
+69AB94A00,Huerta Savings Bank,884,1,0,Fort Huachuca - Arizona - United States
+699F06130,Buchanan Bank,281,1,0,Tucson - Arizona - United States
+69B49C800,Markus's Federal Credit Union,12,1,0,Tucson - Arizona - United States
+699475630,Dickson Federal Credit Union,12,1,0,Tucson - Arizona - United States
+699A0D000,Johnson Savings Bank,139,1,0,Tucson - Arizona - United States
+69AA45EA0,Moises's Federal Credit Union,50,1,0,Tucson - Arizona - United States
+69A8643D0,Davila Federal Credit Union,99,1,0,Tucson - Arizona - United States
+3E06C2F00,Evan's Thrift,152,1,0,Tucson - Arizona - United States
+69971D370,Marco's Federal Credit Union,179,1,0,Tucson - Arizona - United States
+69A8C26F0,Massey Savings Bank,161,1,0,Tucson - Arizona - United States
+699E3EE80,Rhodes Bank,313,1,0,Tucson - Arizona - United States
+69AEEBCA0,Simpson Thrift,26,1,0,Tucson - Arizona - United States
+69B70ED80,Amiyah's Flagstaff Bank,420,1,0,Flagstaff - Arizona - United States
+69B71B0F0,Wesson's Federal Credit Union,128,1,0,Kingman - Arizona - United States
+699C8ED90,Branson's Savings Bank,260,1,0,Mohave Valley - Arizona - United States
+69B736310,Otis's Bank,108,1,0,Alamogordo - New Mexico - United States
+69AED6620,York Federal Credit Union,309,1,0,Alamogordo - New Mexico - United States
+699F6A5F0,Marcel's Henderson Thrift,3,1,0,Henderson - Nevada - United States
+69B3B7520,Ware Federal Credit Union,255,1,0,Henderson - Nevada - United States
+69A0DE310,Christine's Las Vegas Savings Bank,0,1,0,Las Vegas - Nevada - United States
+69B6BC6F0,Harry's Thrift,13,1,0,Las Vegas - Nevada - United States
+69A7D97D0,McKay Federal Credit Union,0,1,0,Las Vegas - Nevada - United States
+69B5E15D0,Kashton's Federal Credit Union,9,1,0,Las Vegas - Nevada - United States
+69A0C0630,Weeks Thrift,4,1,0,Las Vegas - Nevada - United States
+69AAFD5E0,Morrow Federal Credit Union,0,1,0,Las Vegas - Nevada - United States
+69A1DD500,Susan's Savings Bank,135,1,0,Las Vegas - Nevada - United States
+69B064BF0,Nehemiah's Las Vegas Savings Bank,18,1,0,Las Vegas - Nevada - United States
+6999AF3E0,United Federal Credit Union,5,1,0,Las Vegas - Nevada - United States
+699774BC0,Macias Las Vegas Federal Credit Union,121,1,0,Las Vegas - Nevada - United States
+699A3EC20,Eden's Savings Bank,1618,1,0,Gardnerville - Nevada - United States
+69A9C78E0,Sullivan Bank,23,1,0,Reno - Nevada - United States
+699FA6D50,Hensley Savings Bank,37,1,0,Gardena - California - United States
+69A09D6F0,Palmer Gardena Federal Credit Union,22,1,0,Gardena - California - United States
+6999B6490,Reilly Savings Bank,0,1,0,Whittier - California - United States
+69B70AC70,United Federal Credit Union,0,1,0,Whittier - California - United States
+69996AA70,Cadence's Bank,315,1,0,La Mirada - California - United States
+6996BFCA0,Hunt Montebello Federal Credit Union,28,1,0,Montebello - California - United States
+69B47E6B0,Barr Thrift,0,1,0,Long Beach - California - United States
+69B666420,Ember's Long Beach Bank,0,1,0,Long Beach - California - United States
+69B2AAE70,Maliah's Calabasas Bank,114,1,0,Calabasas - California - United States
+699CA3FE0,Mikayla's Savings Bank,94,1,0,Canoga Park - California - United States
+69A0CDEE0,Marcelo's Savings Bank,6,1,0,Newhall - California - United States
+699FD4670,Warren Northridge Savings Bank,0,1,0,Northridge - California - United States
+69A6EF530,Elias's Bank,13,1,0,Thousand Oaks - California - United States
+6998836A0,Petersen Bank,19,1,0,Thousand Oaks - California - United States
+69B3DE690,Rebecca's Thrift,19,1,0,Thousand Oaks - California - United States
+69AF017C0,Hahn Sherman Oaks Bank,11,1,0,Sherman Oaks - California - United States
+69954CD30,Decker's Thrift,1,1,0,Sherman Oaks - California - United States
+699B276A0,Fisher's Savings Bank,0,1,0,Encino - California - United States
+699E93310,Camilla's Bank,14,1,0,Chino Hills - California - United States
+6997E06B0,Gallagher Savings Bank,32,1,0,Chino Hills - California - United States
+699A68CC0,Douglas Savings Bank,10,1,0,Covina - California - United States
+69A4445D0,Heaven's Bank,405,1,0,La Puente - California - United States
+699DA2600,Janessa's Savings Bank,18,1,0,La Puente - California - United States
+69ACBF2F0,Le Savings Bank,108,1,0,La Puente - California - United States
+69A8B74E0,Odonnell La Puente Federal Credit Union,0,1,0,La Puente - California - United States
+69B45CC00,Wayne's Federal Credit Union,3,1,0,La Puente - California - United States
+69A1C27A0,Ariadne's Savings Bank,603,1,0,Alpine - California - United States
+69B56BB70,Conley Thrift,727,1,0,Alpine - California - United States
+69A91E540,Mira's Dulzura Bank,130,1,0,Dulzura - California - United States
+69B586470,Hall National City Federal Credit Union,0,1,0,National City - California - United States
+699616700,Ian's Bank,29,1,0,National City - California - United States
+699E6ACD0,Mann Federal Credit Union,0,1,0,National City - California - United States
+699F0BC40,Audrey's Savings Bank,203,1,0,Del Mar - California - United States
+69B67D970,Lowery Savings Bank,69,1,0,Del Mar - California - United States
+69A8ED450,Margot's Bank,190,1,0,Del Mar - California - United States
+699902D80,Sawyer Bank,278,1,0,Ramona - California - United States
+699E69B80,Nolan Federal Credit Union,64,1,0,San Diego - California - United States
+69A6D7260,Hale Federal Credit Union,37,1,0,Banning - California - United States
+699B6FEC0,Jesse's Savings Bank,9,1,0,Cathedral City - California - United States
+6996654D0,Solomon Thrift,5,1,0,Cathedral City - California - United States
+69B01D0D0,Lambert Thrift,42,1,0,La Quinta - California - United States
+69A352310,Mills Bank,168,1,0,La Quinta - California - United States
+69B073F50,Cooper's Thrift,22,1,0,Rancho Mirage - California - United States
+69AAF9910,Leal Savings Bank,3,1,0,Victorville - California - United States
+69B20A790,United Federal Credit Union,56,1,0,Victorville - California - United States
+699E88EA0,Bristol's Thrift,17,1,0,Irvine - California - United States
+69B350E00,Giancarlo's Federal Credit Union,62,1,0,Irvine - California - United States
+69A05E180,Donald's Bank,613,1,0,Laguna Beach - California - United States
+6998FF970,Cedric's Federal Credit Union,3,1,0,Santa Ana - California - United States
+69AC2C610,Sexton Federal Credit Union,283,1,0,Tustin - California - United States
+69A840270,Gillespie Savings Bank,198,1,0,Orange - California - United States
+699FF6050,Joslyn's Corona Thrift,182,1,0,Corona - California - United States
+699D1FDA0,Nathanael's Corona Bank,270,1,0,Corona - California - United States
+6996DA610,Fields Bank,92,1,0,Corona - California - United States
+69962D300,London's Savings Bank,106,1,0,Corona - California - United States
+69AB24F70,Anton's Yorba Linda Thrift,3,1,0,Yorba Linda - California - United States
+69ADD29B0,Bates Savings Bank,13,1,0,Moorpark - California - United States
+6996D4AE0,Corey's Bank,26,1,0,Oxnard - California - United States
+69A49D870,Kim Bank,45,1,0,Oxnard - California - United States
+69A3204E0,Neufelder Savings Bank,174,1,0,Madera - California - United States
+69B57A5F0,Soto Savings Bank,210,1,0,Madera - California - United States
+699E1F600,Lucero Bank,118,1,0,Carmel By The Sea - California - United States
+69B5B5340,Santos's Pacific Grove Federal Credit Union,18,1,0,Pacific Grove - California - United States
+6995269B0,Yisroel's Thrift,293,1,0,Pacific Grove - California - United States
+69B16DD40,Cervantes Pebble Beach Federal Credit Union,34,1,0,Pebble Beach - California - United States
+69949F230,Sandra's Bank,0,1,0,Brisbane - California - United States
+699DB6F90,Lindsey Thrift,10,1,0,San Francisco - California - United States
+69A6CF920,King Bank,0,1,0,San Francisco - California - United States
+699737BA0,Anderson San Francisco Thrift,349,1,0,San Francisco - California - United States
+699A995A0,United Federal Credit Union,20,1,0,Antioch - California - United States
+69A3211F0,Zion's Antioch Bank,17,1,0,Antioch - California - United States
+69952D1B0,Combs Federal Credit Union,59,1,0,Vallejo - California - United States
+69A9C3380,Odonnell Vallejo Federal Credit Union,135,1,0,Vallejo - California - United States
+699E05DC0,Derek's Thrift,7,1,0,El Sobrante - California - United States
+69AE5E770,United Savings Bank,66,1,0,El Sobrante - California - United States
+69A8636E0,United Thrift,4,1,0,El Sobrante - California - United States
+69ADC0B20,Valentino's El Sobrante Savings Bank,33,1,0,El Sobrante - California - United States
+6995AAAA0,Freeman Petaluma Federal Credit Union,224,1,0,Petaluma - California - United States
+69B0C1320,Friedman Federal Credit Union,188,1,0,Saratoga - California - United States
+6994F5DA0,Luna Bank,98,1,0,Saratoga - California - United States
+69B5358F0,McDonald Bank,68,1,0,Saratoga - California - United States
+69954D180,Myers Thrift,145,1,0,San Jose - California - United States
+69AC23B30,Chapman San Jose Thrift,82,1,0,San Jose - California - United States
+69AD2CE30,Melton Savings Bank,155,1,0,San Jose - California - United States
+699D299E0,Clara's Bank,0,1,0,Stockton - California - United States
+69AA689E0,United Savings Bank,108,1,0,Ukiah - California - United States
+69AE6FCB0,Callum's Thrift,82,1,0,Folsom - California - United States
+69984A7F0,Kailyn's Thrift,65,1,0,Folsom - California - United States
+69A3A8330,Adele's Bank,88,1,0,Foresthill - California - United States
+69A1B41C0,Crawford Savings Bank,20,1,0,Foresthill - California - United States
+69AAFCD20,Genevieve's Federal Credit Union,122,1,0,Foresthill - California - United States
+699BF4540,Lloyd Bank,298,1,0,Foresthill - California - United States
+69A083660,Mercy's Savings Bank,422,1,0,Ione - California - United States
+69B24C0D0,Jerry's Bank,0,1,0,Elk Grove - California - United States
+69B237B90,Yoder Thrift,195,1,0,Anderson - California - United States
+69A3AEB70,Archer's Thrift,22,1,0,Portola - California - United States
+69B2CA1A0,Quinton's Bank,6,1,0,Kaneohe - Hawaii - United States
+69A3333F0,Yareli's Federal Credit Union,0,1,0,Kaneohe - Hawaii - United States
+699F00EA0,Louisa's Federal Credit Union,96,1,0,Canby - Oregon - United States
+69A29B730,Nielsen Thrift,72,1,0,Canby - Oregon - United States
+69B34F850,Brayson's Bank,0,1,0,Damascus - Oregon - United States
+69B2F09A0,Riley Thrift,73,1,0,Hillsboro - Oregon - United States
+69AC01DA0,Scarlet's Thrift,139,1,0,Hillsboro - Oregon - United States
+69AD00310,Benson Thrift,38,1,0,Portland - Oregon - United States
+69A1A82D0,Francisco's Thrift,3,1,0,Portland - Oregon - United States
+69AB4EF70,Levy Thrift,23,1,0,Portland - Oregon - United States
+69AF1C5E0,Poole Savings Bank,129,1,0,Portland - Oregon - United States
+69B54BC90,Stanley's Thrift,65,1,0,Portland - Oregon - United States
+699AA5D40,Adriel's Portland Thrift,0,1,0,Portland - Oregon - United States
+69B510250,United Federal Credit Union,29,1,0,Portland - Oregon - United States
+699665920,Benton Bank,288,1,0,Salem - Oregon - United States
+699AB5900,French Thrift,178,1,0,Salem - Oregon - United States
+69B157540,Collier Salem Savings Bank,34,1,0,Salem - Oregon - United States
+69956D590,Russo Salem Bank,10,1,0,Salem - Oregon - United States
+699770AB0,Sheila's Jacksonville Thrift,375,1,0,Jacksonville - Oregon - United States
+69B317A60,Heidi's Savings Bank,898,1,0,Prineville - Oregon - United States
+69A3515F0,Avah's Savings Bank,1610,1,0,Sisters - Oregon - United States
+699881840,Leighton's Savings Bank,43,1,0,Hermiston - Oregon - United States
+69ABC7D10,Mack's Federal Credit Union,45,1,0,Hermiston - Oregon - United States
+69B20E880,Sierra Thrift,166,1,0,Hermiston - Oregon - United States
+69A35DDB0,Wells Savings Bank,67,1,0,Hermiston - Oregon - United States
+69AB7A9C0,Cantrell Fall City Federal Credit Union,145,1,0,Fall City - Washington - United States
+699D1F500,Thornton Bank,3,1,0,Redmond - Washington - United States
+69A1F2BE0,Crosby's Thrift,133,1,0,Seattle - Washington - United States
+69B6BEDD0,Greysen's Federal Credit Union,33,1,0,Seattle - Washington - United States
+69A7A2700,Nichols Federal Credit Union,1,1,0,Marysville - Washington - United States
+69ADD2E00,Noor's Savings Bank,2,1,0,Marysville - Washington - United States
+69B022300,United Federal Credit Union,204,1,0,Longbranch - Washington - United States
+69A6487F0,Griffin's Savings Bank,49,1,0,Puyallup - Washington - United States
+699E7C6E0,Jamir's Bank,39,1,0,Puyallup - Washington - United States
+699BE8680,Quentin's Federal Credit Union,86,1,0,Puyallup - Washington - United States
+69A3C8330,Markus's Thrift,361,1,0,Montesano - Washington - United States
+69A955740,Summers Bank,90,1,0,Yakima - Washington - United States
+69B3E9C70,Nolan's Pullman Savings Bank,1033,1,0,Pullman - Washington - United States
+6994FDBC0,United Savings Bank,60,1,0,College Place - Washington - United States
+69B685730,Felipe's Federal Credit Union,115,1,0,Walla Walla - Washington - United States
+69ADC4810,Steele Savings Bank,252,1,0,Walla Walla - Washington - United States
