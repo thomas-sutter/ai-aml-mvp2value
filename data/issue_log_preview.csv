@@ -1,0 +1,5 @@
+issue,rows,rate
+from_balance_mismatch,274291,0.2533164019209457
+to_balance_mismatch,291371,0.2690903213889915
+insufficient_funds_and_no_overdraft,0,0.0
+all_cash_but_format_not_cash,0,0.0
